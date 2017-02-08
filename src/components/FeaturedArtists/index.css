@@ -1,0 +1,16 @@
+.artists {
+	display: flex;
+	justify-content: space-between;
+}
+
+.artist {
+	padding: 25px;
+}
+
+.artist--name {
+	font-size: 35px;
+}
+
+.artist--offering {
+	font-size: 15px;
+}

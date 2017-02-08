@@ -4,13 +4,9 @@ require('slick-carousel/slick/slick.css')
 require('slick-carousel/slick/slick-theme.css')
 import './index.css'
 
-import img_1 from '../../../public/img/artists/Untitled-2.jpg'
-import img_2 from '../../../public/img/artists/Untitled-4.png'
-const images = [
-	img_2,
-	img_1,
-]
+
 const ImageSlider = (props) => {
+	const {images} = props
 	const settings = {
 		dots: false,
 		arrows: false,
@@ -32,7 +28,7 @@ const ImageSlider = (props) => {
 										display: 'none'
 									}}
 									alt={'missingo'}
-									src={img_1}
+									src={image}
 									role="presentation"/>
 							 </div>)
 						})
