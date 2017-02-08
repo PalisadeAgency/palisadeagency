@@ -1,0 +1,38 @@
+
+backend:
+  name: github
+  repo: HarrisRobin/palisade-agency # Path to your Github repository
+  branch: master # Branch to update (master by default)
+
+media_folder: "public/uploads" # Media files will be stored in the repo under source/uploads
+public_folder: "public" # CMS now knows 'public' is the public folder and will strip this from the path
+
+collections: # A list of collections the CMS should be able to edit
+  - name: "front_page_images" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "new front page image" # Used in the UI, ie.: "New Post"
+    folder: "public/_frontpage_images" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Title", name: "title", widget: "string", tagname: "h1"}
+      - {label: "image", name: "image", widget: "image"}
+    card: {type: "image", image: "image", text: "title"}
+
+  - name: "artists" # Used in routes, ie.: /admin/collections/:slug/edit
+    label: "new artist" # Used in the UI, ie.: "New Post"
+    folder: "public/_artists" # The path to the folder where the documents are stored
+    create: true # Allow users to create new documents in this collection
+    fields: # The fields each document in this collection have
+      - {label: "Artist's name", name: "name", widget: "string"}
+      - {label: "What's the locale (UK,SE) ?", name: "locale", widget: "string"}
+    card: {type: "alltype", text: "title"}
+
+  - name: "settings"
+    label: "Settings"
+    files:
+      - name: "general"
+        label: "General settings"
+        file: "_settings/general.json"
+        fields:
+          - {label: "Main site title", name: "site_title", widget: "string"}
+          - {label: "Number of fronpage posts", name: "post_count", widget: "number"}
+          - {label: "Site cover image", name: "cover", widget: "image"}

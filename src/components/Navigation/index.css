@@ -1,0 +1,36 @@
+.navigation {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	height: 100px;
+}
+
+.navigation__brand {
+	font-size: 35px;
+}
+
+.navigation__brand-name__h1 {
+	margin: 0;
+}
+
+.navigation__right-nav {
+	align-self: flex-end;
+}
+
+.navigation__right-nav__ul {
+	display: flex;
+}
+
+.navigation__right-nav__li {
+	text-transform: uppercase;
+	color: inherit;
+	font-size: 23px;
+}
+
+.navigation__right-nav__li:not(:last-child) {
+	margin-right: 25px;
+}
+
+.navigation__right-nav__li a {
+	color: inherit;
+}
