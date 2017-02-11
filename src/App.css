@@ -57,23 +57,9 @@ h1, h2, h3, h4, h5, h6, h7 {
   max-width: 1200px;
 }
 
-.bookings {
-	margin-top: 45px;
-}
-
-.bookings__h2 {
-	font-size: 35px;
-}
-
-.booker {
-	border: 1pt solid rgba(0,0,0,0.45);
-	padding: 25px;
-}
-
-.booker--name {
-	font-size: 40px;
-}
-
-.booker--offering {
-	font-size: 15px;
+:root {
+  --heading-size-xl: 70px;
+	--heading-size-l: 35px;
+	--heading-size-m: 23px;
+	--heading-size-sm: 15px;
 }

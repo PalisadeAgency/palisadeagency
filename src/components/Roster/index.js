@@ -8,7 +8,6 @@ const Roster = (props) => {
 		<div className="rostering">
 			<h2 className="rostering__h2">
 				ROSTER
-				
 			</h2>
 			<div className='roster'>
 				{artists.map((artist) => {

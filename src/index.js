@@ -7,7 +7,6 @@ import '../public/fonts/stylesheet.css'
 import Home from './pages/Home'
 import './App.css'
 
-
 render(
   <Router history={browserHistory}>
     <Route path="/" component={Home} />

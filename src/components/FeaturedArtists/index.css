@@ -8,9 +8,9 @@
 }
 
 .artist--name {
-	font-size: 35px;
+	font-size: var(--heading-size-l);
 }
 
 .artist--offering {
-	font-size: 15px;
+	font-size: var(--heading-size-sm);
 }

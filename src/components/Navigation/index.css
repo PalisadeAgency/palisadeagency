@@ -6,11 +6,11 @@
 }
 
 .navigation__brand {
-	font-size: 35px;
 }
 
 .navigation__brand-name__h1 {
 	margin: 0;
+	font-size: var(--heading-size-xl);
 }
 
 .navigation__right-nav {
