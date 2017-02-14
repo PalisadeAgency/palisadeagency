@@ -6,7 +6,7 @@ const Roster = (props) => {
 	const {artists} = props
 	return (
 		<div className="rostering">
-			<h2 className="rostering__h2">
+			<h2 className="rostering__h2" id="roster">
 				ROSTER
 			</h2>
 			<div className='roster'>

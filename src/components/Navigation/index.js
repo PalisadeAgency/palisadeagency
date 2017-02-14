@@ -10,17 +10,17 @@ const Navigation = (props) => {
 			<div className='navigation__right-nav'>
 				<ul className="navigation__right-nav__ul">
 					<li className="navigation__right-nav__li">
-						<a href="">
+						<a href="#roster">
 							roster
 						</a>
 					</li>
 					<li className="navigation__right-nav__li">
-						<a href="">
+						<a href="#bookings">
 							bookings
 						</a>
 					</li>
 					<li className="navigation__right-nav__li">
-						<a href="">
+						<a href="#about">
 							about
 						</a>
 					</li>

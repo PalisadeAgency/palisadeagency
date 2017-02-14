@@ -1,0 +1,50 @@
+.about {
+
+}
+
+.about__info {
+	border: 1pt solid rgba(0,0,0,0.45);
+	box-shadow: inset 1px 1px 2px rgba(0,0,0,0.1);
+	padding: 25px;
+	display: flex;
+	justify-content: space-between;
+	position: relative;
+}
+
+.about--info {
+	width: 496px;
+	margin-right: 30px;
+	padding-right: 30px;
+}
+.about__p {
+	margin-top: 20px;
+	font-size: var(--heading-size-m);
+	line-height: 1.17;
+}
+.about__h2 {
+	font-size: var(--heading-size-l);
+	margin-top: 102px;
+}
+
+.about--contact {
+	width: 50%;
+	text-align: center;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.about--contact--name__h2 {
+	font-size: 44.3px;
+	margin-right: 30px;
+}
+
+.vert-bar {
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	transform: translateY(-50%) translateX(-50%);
+	height: 161px;
+	width :1px;
+	border: 1px dashed black;
+}

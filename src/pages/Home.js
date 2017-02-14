@@ -12,12 +12,14 @@ import artists from '../db/artists'
 const Home = (props) => {
 	return (
 		<div className='App'>
-			<Navigation />
-			<ImageSlider images={images} />
-			<FeaturedArtists artists={artists} />
-			<Roster artists={artists}/>
-			<Booker />
-			<About />
+			<div className="width-constraint">
+				<Navigation />
+				<ImageSlider images={images} />
+				<FeaturedArtists artists={artists} />
+				<Roster artists={artists}/>
+				<Booker />
+				<About />
+			</div>
 		</div>
 	)
 }

@@ -1,9 +1,9 @@
 .bookings {
-	margin-top: 45px;
 }
 
 .bookings__h2 {
   font-size: var(--heading-size-l);
+	margin-top: 102px;
 }
 
 .booker {
@@ -13,9 +13,22 @@
 }
 
 .booker--name {
-  font-size: var(--heading-size-l);
+  font-size: 44.3px;
 }
-
+.booker--email {
+	font-size: 17.5px;
+	color: black;
+}
+.booker--email a {
+	color: black;
+}
+.booker-social {
+	margin-top: 14px;
+}
+.booker-social a {
+	color: black;
+	margin-right: 14px;
+}
 .booker--offering {
   font-size: var(--heading-size-sm);
 }

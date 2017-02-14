@@ -11,6 +11,10 @@
 	font-size: var(--heading-size-l);
 }
 
-.artist--offering {
+.artist--offering, .artist--description {
 	font-size: var(--heading-size-sm);
+}
+
+.artist--description {
+	width: 80%;
 }

@@ -54,12 +54,17 @@ h1, h2, h3, h4, h5, h6, h7 {
   margin: 0 auto;
   padding: 0;
   vertical-align: baseline;
-  max-width: 1200px;
+  max-width: 1330px;
+}
+
+.width-constraint {
+	width: 1196.1px;
+	margin: 0 auto;
 }
 
 :root {
-  --heading-size-xl: 70px;
-	--heading-size-l: 35px;
-	--heading-size-m: 23px;
-	--heading-size-sm: 15px;
+  --heading-size-xl: 83.1px;
+	--heading-size-l: 35.5px;
+	--heading-size-m: 22.2px;
+	--heading-size-sm: 13.3px;
 }

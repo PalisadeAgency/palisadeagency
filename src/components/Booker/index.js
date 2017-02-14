@@ -4,7 +4,7 @@ import './index.css'
 const Booker = (props) => {
 	return (
 		<div className="bookings">
-			<h2 className="bookings__h2">
+			<h2 className="bookings__h2" id="bookings">
 				BOOKINGS
 			</h2>
 			<div className="booker">
@@ -16,6 +16,9 @@ const Booker = (props) => {
 				<span className="booker--offering bebas-regular">
 					AGENT
 				</span>
+				<div className="booker--email">
+					<a href="mailto:R@palisadeagency.com">R@PALISADEAGENCY.COM</a>
+				</div>
 			</div>
 				<div className="booker-social">
 					<a href="">INSTA</a>
