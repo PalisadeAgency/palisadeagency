@@ -58,12 +58,15 @@ h1, h2, h3, h4, h5, h6, h7 {
 }
 
 .width-constraint {
-	width: 1196.1px;
 	margin: 0 auto;
+	max-width: 1176.1px;
+	padding: 20px;
 }
+
 
 :root {
   --heading-size-xl: 83.1px;
+	--heading-size-xl-tablet: 43.1px;
 	--heading-size-l: 35.5px;
 	--heading-size-m: 22.2px;
 	--heading-size-sm: 13.3px;

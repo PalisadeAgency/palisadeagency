@@ -1,10 +1,23 @@
 .artists {
 	display: flex;
 	justify-content: space-between;
+	flex-wrap: wrap;
+}
+
+@media (min-width: 1024px) {
+	.artists {
+		flex-wrap: nowrap;
+	}
 }
 
 .artist {
-	padding: 25px;
+	padding: 25px 25px 25px 0;
+}
+
+@media (min-width: 480px) {
+	.artist {
+		padding: 25px;
+	}
 }
 
 .artist--name {

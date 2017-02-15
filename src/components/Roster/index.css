@@ -12,12 +12,17 @@
 	display: flex;
 	justify-content: space-between;
 	color: black;
-	margin: 25px 0 25px 45px;
 	flex-grow: 1;
+	margin: 15px;
 	width: 25%;
 	border-bottom: 1pt solid black;
 	padding: 0;
 
+}
+@media (min-width: 480px) {
+	.roster--artist {
+		margin: 25px 0 25px 45px;
+	}
 }
 
 .rostering__h2 {

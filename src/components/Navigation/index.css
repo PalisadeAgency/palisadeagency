@@ -10,7 +10,15 @@
 
 .navigation__brand-name__h1 {
 	margin: 0;
-	font-size: var(--heading-size-xl);
+	font-size: 40px;
+	font-size: var(--heading-size-xl-tablet)
+}
+
+@media (min-width: 1024px) {
+	.navigation__brand-name__h1 {
+		margin: 0;
+		font-size: var(--heading-size-xl);
+	}
 }
 
 .navigation__right-nav {
@@ -24,7 +32,13 @@
 .navigation__right-nav__li {
 	text-transform: uppercase;
 	color: inherit;
-	font-size: 29.5px;
+	font-size: 20px;
+}
+
+@media (min-width: 1024px) {
+	.navigation__right-nav__li {
+		font-size: 29.5px;
+	}
 }
 
 .navigation__right-nav__li:not(:last-child) {
