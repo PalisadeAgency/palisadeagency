@@ -3,6 +3,9 @@
 	justify-content: space-between;
 	align-items: center;
 	height: 100px;
+	margin-bottom: 10px;
+	margin-top: 3px;
+	margin-left: 2px;
 }
 
 .navigation__brand {
@@ -27,6 +30,7 @@
 
 .navigation__right-nav__ul {
 	display: flex;
+	padding-bottom: 15px;
 }
 
 .navigation__right-nav__li {

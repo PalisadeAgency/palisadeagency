@@ -1,6 +1,6 @@
 .slider {
 	padding-top: 10px;
-	height: 400px;
+	height: 337px;
 }
 
 .slick-slider, .slick-list, .slick-track {
@@ -9,7 +9,6 @@
 
 .slider__image {
 	width: 100%;
-	height: 337px;
 	background-size: cover;
 	background-position: center;
 	background-repeat: no-repeat;

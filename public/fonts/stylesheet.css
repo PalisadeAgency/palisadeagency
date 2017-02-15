@@ -13,7 +13,6 @@
 
 
 
-
 @font-face {
     font-family: 'bebas_neuelight';
     src: url('bebasneue_light-webfont.woff2') format('woff2'),
@@ -59,6 +58,16 @@
 
 }
 
+
+@font-face {
+    font-family: 'klinic_slabbook';
+    src: url('klinicslabbook-webfont.woff2') format('woff2'),
+         url('klinicslabbook-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
 .bebas-regular {
 	font-family: 'bebas_neueregular';
 	font-weight: normal;
@@ -72,4 +81,10 @@
 .bebas-bold {
 	font-family: 'bebas_neuebold';
 	font-weight: normal;
+}
+
+
+.klinic-book {
+  font-family: 'klinic_slabbook';
+  font-weight: normal;
 }

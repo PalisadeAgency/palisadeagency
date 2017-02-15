@@ -20,7 +20,7 @@ const FeaturedArtists = (props) => {
 									{artist.offering}
 								</span>
 							</div>
-							<div className="artist--description bebas-book">
+							<div className="artist--description klinic-book">
 								{artist.description}
 							</div>
 						</div>

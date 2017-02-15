@@ -22,6 +22,7 @@
 
 .artist--name {
 	font-size: var(--heading-size-l);
+	word-spacing: -2px;
 }
 
 .artist--offering, .artist--description {
@@ -30,4 +31,8 @@
 
 .artist--description {
 	width: 80%;
+}
+
+.artist--locale {
+	word-spacing: 1px;
 }
