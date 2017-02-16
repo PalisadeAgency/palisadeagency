@@ -19,6 +19,12 @@ const Home = (props) => {
 				<Roster artists={artists}/>
 				<Booker />
 				<About />
+				<div className="copyright" style={{
+						textAlign: 'center'
+					}}>
+					&copy; 2017
+					<script>new Date().getFullYear()>2017&&document.write("-"+new Date().getFullYear());</script>, Palisade Agency.
+				</div>
 			</div>
 		</div>
 	)

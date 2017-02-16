@@ -9,17 +9,15 @@ const Booker = (props) => {
 			</h2>
 			<div className="booker">
 			<div className="booker--name bebas-bold">
-				RYAN OTIS &nbsp;
-				<span className="booker--locale">
-					(CA) &nbsp;
-				</span>
+				RYAN OTIS	(CA)
 				<span className="booker--offering bebas-regular">
 					AGENT
 				</span>
-				<div className="booker--email">
+				<div className="booker--email bebas-regular">
 					<a href="mailto:R@palisadeagency.com">R@PALISADEAGENCY.COM</a>
 				</div>
 			</div>
+				<div className="vert-bar">	</div>
 				<div className="booker-social">
 					<a href="">INSTA</a>
 					<a href="">SOUNDCLOUD</a>

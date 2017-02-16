@@ -16,9 +16,7 @@ const About = (props) => {
 						We are proud to represent the artists of tomorrow so that you can enjoy the best in music today.
 					</div>
 				</div>
-				<div className="vert-bar">
-
-				</div>
+				<div className="vert-bar">	</div>
 				<div className="about--contact">
 					<div className="about--contact--name">
 						<h2 className="about--contact--name__h2 bebas-bold">
