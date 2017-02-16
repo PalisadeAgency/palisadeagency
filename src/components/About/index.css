@@ -38,6 +38,7 @@
 .about__h2 {
 	font-size: var(--heading-size-l);
 	margin-top: 102px;
+	margin-bottom: 4px;
 }
 
 .about--contact {

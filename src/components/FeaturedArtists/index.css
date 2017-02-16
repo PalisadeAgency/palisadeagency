@@ -2,6 +2,7 @@
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap;
+	margin-top: 10px;
 }
 
 @media (min-width: 1024px) {
@@ -27,6 +28,7 @@
 
 .artist--offering, .artist--description {
 	font-size: var(--heading-size-sm);
+	word-spacing: 1px;
 }
 
 .artist--description {
@@ -34,5 +36,5 @@
 }
 
 .artist--locale {
-	word-spacing: 1px;
+	word-spacing: -3px;
 }
