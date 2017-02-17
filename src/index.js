@@ -5,11 +5,13 @@ import { Router, Route, browserHistory } from 'react-router'
 import 'normalize.css/normalize.css'
 import '../public/fonts/stylesheet.css'
 import Home from './pages/Home'
+import Artist from './pages/Artist'
 import './App.css'
 
 render(
   <Router history={browserHistory}>
     <Route path="/" component={Home} />
+    <Route path="/:artist" component={Artist} />
   </Router>,
   document.getElementById('root')
 );

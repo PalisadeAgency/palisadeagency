@@ -1,4 +1,4 @@
-import React from 'react'
+import React, {PropTypes} from 'react'
 import Slider from 'react-slick';
 require('slick-carousel/slick/slick.css')
 require('slick-carousel/slick/slick-theme.css')
@@ -36,6 +36,10 @@ const ImageSlider = (props) => {
 			</Slider>
 		</div>
 	)
+}
+
+ImageSlider.propTypes = {
+	images: PropTypes.array.isRequired
 }
 
 export default ImageSlider

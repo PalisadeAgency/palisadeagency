@@ -1,4 +1,8 @@
 import React from 'react'
+import facebook from '../../../public/img/icons/facebook.png'
+import instagram from '../../../public/img/icons/instagram.png'
+import twitter from '../../../public/img/icons/twitter.png'
+
 import './index.css'
 
 const About = (props) => {
@@ -25,13 +29,13 @@ const About = (props) => {
 					</div>
 					<div className="about--contact--social">
 						<span className="about--contact--social__span">
-							FACEBOOK
+							<a href="" className="social-icon"><img src={facebook} alt="facebook icon"/></a>
 						</span>
 						<span className="about--contact--social__span">
-							INSTAGRAM
+							<a href="" className="social-icon"><img src={instagram} alt="instagram icon"/></a>
 						</span>
 						<span className="about--contact--social__span">
-							TWATTER
+							<a href="" className="social-icon"><img src={twitter} alt="twitter icon"/></a>
 						</span>
 					</div>
 				</div>

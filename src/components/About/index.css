@@ -86,3 +86,7 @@
 		display: block;
 	}
 }
+
+.about--contact--social__span {
+	margin-right: 17px;
+}

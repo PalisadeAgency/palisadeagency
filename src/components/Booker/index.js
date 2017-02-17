@@ -1,4 +1,6 @@
 import React from 'react'
+import insta from '../../../public/img/icons/instagram.png'
+import soundcloud from '../../../public/img/icons/soundcloud.png'
 import './index.css'
 
 const Booker = (props) => {
@@ -19,8 +21,8 @@ const Booker = (props) => {
 			</div>
 				<div className="vert-bar">	</div>
 				<div className="booker-social">
-					<a href="">INSTA</a>
-					<a href="">SOUNDCLOUD</a>
+					<a href="" className="social-icon"><img src={soundcloud} alt="soundcloud icon"/></a>
+					<a href="" className="social-icon"><img src={insta} alt="instagram icon"/></a>
 				</div>
 			</div>
 		</div>

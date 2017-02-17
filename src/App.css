@@ -63,6 +63,10 @@ h1, h2, h3, h4, h5, h6, h7 {
 	padding: 20px;
 }
 
+.social-icon img {
+  height: 34px;
+}
+
 
 :root {
   --heading-size-xl: 77.1px;
