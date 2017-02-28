@@ -1,6 +1,7 @@
 import React from 'react'
 import artists from '../db/artists'
 import ImageSlider from '../components/ImageSlider'
+import ArtistInfo from '../components/ArtistInfo'
 
 const Artist = (props) => {
 	const {routeParams} = props
@@ -9,6 +10,7 @@ const Artist = (props) => {
 		<div className='App'>
 			<div className="width-constraint">
 				<ImageSlider images={artist.images} />
+				<ArtistInfo artist={artist}/>
 			</div>
 		</div>
 	)
