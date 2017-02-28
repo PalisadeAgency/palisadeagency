@@ -29,6 +29,6 @@
 .rostering__h2 {
 	font-size: 35px;
 	font-size: var(--heading-size-l);
-	margin-top: 102px;
+	margin-top: 0;
 	margin-bottom: 4px;
 }
