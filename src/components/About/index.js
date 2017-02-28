@@ -45,7 +45,7 @@ const About = (props) => {
 								</a>
 						</span>
 						<span
-							style={{marginLeft: '1px', marginTop: '2px', width: '36px'}}
+							style={{marginLeft: '1px', marginTop: '3px', width: '36px'}}
 							className="about--contact--social__span">
 							<a href="" className="social-icon">
 								<img src={twitter} alt="twitter icon"/>
