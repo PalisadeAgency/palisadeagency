@@ -5,8 +5,8 @@ import './index.css'
 const Roster = (props) => {
 	const {artists} = props
 	return (
-		<div className="rostering">
-			<h2 className="rostering__h2" id="roster">
+		<div className="rostering" id="roster">
+			<h2 className="rostering__h2">
 				ROSTER
 			</h2>
 			<div className='roster'>

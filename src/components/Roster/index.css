@@ -1,3 +1,8 @@
+#roster {
+	padding-top: 50px;
+	margin-top: -50px;
+}
+
 .roster {
 	display: flex;
 	border: 1pt solid rgba(0,0,0,0.45);
