@@ -17,6 +17,7 @@ const Home = (props) => {
 					<Navigation />
 					<ImageSlider images={images} />
 					<FeaturedArtists artists={artists} />
+
 				</div>
 				<Roster artists={artists}/>
 				<Booker />

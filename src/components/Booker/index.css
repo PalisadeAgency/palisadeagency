@@ -10,12 +10,13 @@
 
 .booker {
 	border: 1pt solid rgba(0,0,0,0.45);
-	padding: 23px 47px 27px 40px;
+	padding: 28px 47px 27px 45px;
 	position: relative;
 }
 
 .booker--name {
-  font-size: 44.3px;
+  font-size: 46.3px;
+  line-height: 1.1;
 }
 
 .booker--email {

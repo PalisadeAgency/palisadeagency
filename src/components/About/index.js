@@ -29,13 +29,28 @@ const About = (props) => {
 					</div>
 					<div className="about--contact--social">
 						<span className="about--contact--social__span">
-							<a href="" className="social-icon"><img src={facebook} alt="facebook icon"/></a>
+							<a href=""
+								className="social-icon">
+								<img src={facebook}
+								alt="facebook icon"/>
+								</a>
 						</span>
-						<span className="about--contact--social__span">
-							<a href="" className="social-icon"><img src={instagram} alt="instagram icon"/></a>
+						<span
+							style={{marginTop: '2px'}}
+							className="about--contact--social__span">
+							<a href=""
+								className="social-icon">
+								<img src={instagram} alt="instagram icon"/>
+
+								</a>
 						</span>
-						<span className="about--contact--social__span">
-							<a href="" className="social-icon"><img src={twitter} alt="twitter icon"/></a>
+						<span
+							style={{marginLeft: '1px', marginTop: '2px', width: '36px'}}
+							className="about--contact--social__span">
+							<a href="" className="social-icon">
+								<img src={twitter} alt="twitter icon"/>
+
+								</a>
 						</span>
 					</div>
 				</div>

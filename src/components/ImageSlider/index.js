@@ -12,8 +12,11 @@ const ImageSlider = (props) => {
 		arrows: false,
 		infinite: true,
 		autoplay: true,
-		speed: 500,
+		fade: true,
+		autoplaySpeed	: 3000,
+		speed: 0,
 		slidesToShow: 1,
+		easing: 'linear',
 		slidesToScroll: 1
 	}
 
