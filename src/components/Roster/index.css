@@ -35,5 +35,5 @@
 	font-size: 35px;
 	font-size: var(--heading-size-l);
 	margin-top: 0;
-	margin-bottom: 4px;
+	margin-bottom: var(--heading-marginbottom);
 }

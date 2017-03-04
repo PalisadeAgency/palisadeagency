@@ -19,10 +19,16 @@ const Booker = (props) => {
 					<a href="mailto:R@palisadeagency.com">R@PALISADEAGENCY.COM</a>
 				</div>
 			</div>
-				<div className="vert-bar">	</div>
-				<div className="booker-social">
-					<a href="" className="social-icon"><img src={soundcloud} alt="soundcloud icon"/></a>
-					<a href="" className="social-icon"><img src={insta} alt="instagram icon"/></a>
+			<div className="vert-bar">	</div>
+			<div className="booker-social">
+				<a href="" className="social-icon">
+					<img src={insta} alt="instagram icon"/></a>
+				<a href="" className="social-icon">
+					<img src={soundcloud} style={{
+								width: '45px',
+								height: '45px',
+							}}
+							alt="soundcloud icon"/></a>
 				</div>
 			</div>
 		</div>

@@ -78,4 +78,5 @@ h1, h2, h3, h4, h5, h6, h7 {
 	--heading-size-l: 35.5px;
 	--heading-size-m: 24.2px;
 	--heading-size-sm: 13.3px;
+  --heading-marginbottom: 10px;
 }

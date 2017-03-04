@@ -5,12 +5,12 @@
 .bookings__h2 {
   font-size: var(--heading-size-l);
 	margin-top: 102px;
-  margin-bottom: 4px;
+  margin-bottom: var(--heading-marginbottom);
 }
 
 .booker {
 	border: 1pt solid rgba(0,0,0,0.45);
-	padding: 28px 47px 27px 45px;
+	padding: 27px 47px 15px 30px;
 	position: relative;
 }
 
@@ -30,6 +30,10 @@
 .booker-social {
 	margin-top: 50px;
 	margin-left: 2px;
+	display: flex;
+}
+.booker-social .social-icon {
+	display: block;
 }
 .booker-social a {
 	color: black;

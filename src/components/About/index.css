@@ -4,7 +4,7 @@
 
 .about__info {
 	border: 1pt solid rgba(0,0,0,0.45);
-	padding: 15px 47px 37px 47px;
+	padding: 5px 47px 27px 47px;
 	display: flex;
 	justify-content: space-between;
 	position: relative;
@@ -38,7 +38,7 @@
 .about__h2 {
 	font-size: var(--heading-size-l);
 	margin-top: 102px;
-	margin-bottom: 4px;
+	margin-bottom: var(--heading-marginbottom);
 }
 
 .about--contact {
@@ -62,7 +62,7 @@
 	font-size: 32.3px;
 	margin-right: 20px;
 	margin-top: 30px;
-	margin-left: 45px;
+	margin-left: 41px;
 }
 
 @media (min-width: 480px) {
@@ -79,6 +79,7 @@
 	transform: translateY(-50%) translateX(-50%);
 	height: 160px;
 	width :1px;
+	margin-left: -16px;
 	margin-top: 2px;
 	border: 1px dashed rgba(0,0,0,0.7);
 	display: none;
