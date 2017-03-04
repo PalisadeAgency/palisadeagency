@@ -14,7 +14,7 @@
 .navigation__brand-name__h1 {
 	margin: 0;
 	font-size: 40px;
-	font-size: var(--heading-size-xl-tablet)
+	font-size: var(--heading-size-xl-tablet);
 	margin-left: -5px;
 }
 
