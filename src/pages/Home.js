@@ -13,12 +13,8 @@ const Home = (props) => {
 	return (
 		<div className='App'>
 			<div className="width-constraint">
-				<div className="height--100">
-					<Navigation />
-					<ImageSlider images={images} />
-					<FeaturedArtists artists={artists} />
-
-				</div>
+				<Navigation />
+				<ImageSlider images={images} />
 				<Roster artists={artists}/>
 				<Booker />
 				<About />

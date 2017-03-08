@@ -1,6 +1,10 @@
 #roster {
-	padding-top: 40px;
-	margin-top: -40px;
+}
+
+#roster::before {
+	display: block;
+	content: '';
+	padding-top: 184px;
 }
 
 .roster {
@@ -32,7 +36,8 @@
 }
 
 .rostering__h2 {
-	font-size: 35px;
+	font-size: 44px;
+	height: 53px;
 	font-size: var(--heading-size-l);
 	margin-top: 0;
 	margin-bottom: var(--heading-marginbottom);
