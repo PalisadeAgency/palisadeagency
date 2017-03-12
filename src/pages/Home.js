@@ -1,7 +1,5 @@
 import React from 'react'
-import Navigation from '../components/Navigation'
 import ImageSlider from '../components/ImageSlider'
-import FeaturedArtists from '../components/FeaturedArtists'
 import Roster from '../components/Roster'
 import About from '../components/About'
 import Booker from '../components/Booker'
@@ -13,13 +11,13 @@ const Home = (props) => {
 	return (
 		<div className='App'>
 			<div className="width-constraint">
-				<Navigation />
 				<ImageSlider images={images} />
 				<Roster artists={artists}/>
 				<Booker />
 				<About />
 				<div className="copyright" style={{
-						textAlign: 'center'
+						textAlign: 'center',
+						marginBottom: '33px'
 					}}>
 					&copy; 2017
 					<script>new Date().getFullYear()>2017&&document.write("-"+new Date().getFullYear());</script>, Palisade Agency.

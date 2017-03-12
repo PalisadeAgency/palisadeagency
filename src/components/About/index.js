@@ -11,46 +11,34 @@ const About = (props) => {
 			<h2 className="about__h2" id="about">
 				ABOUT
 			</h2>
-			<div className="about__info">
-				<div className="about--info bebas-regular">
-					<div className="about__p">
-						An international booking agency located in the heart of Canada’s Cultural Mecca; Montreal.
-					</div>
-					<div className="about__p">
-						We are proud to represent the artists of tomorrow so that you can enjoy the best in music today.
+			<div className="about-blocks">
+				<div className="block-left">
+					<div className="about--info bebas-regular">
+						<div className="about__p">
+							An international booking agency located in the heart of Canada’s Cultural Mecca; Montreal.
+						</div>
+						<div className="about__p">
+							We are proud to represent the artists of tomorrow so that you can enjoy the best in music today.
+						</div>
 					</div>
 				</div>
-				<div className="vert-bar">	</div>
-				<div className="about--contact">
-					<div className="about--contact--name">
-						<h2 className="about--contact--name__h2 bebas-bold">
-							PALISADE ONLINE
-						</h2>
-					</div>
+				<div className="vert-bar"></div>
+				<div className="block-right">
 					<div className="about--contact--social">
 						<span className="about--contact--social__span">
-							<a href=""
-								className="social-icon">
-								<img src={facebook}
-								alt="facebook icon"/>
-								</a>
-						</span>
-						<span
-							style={{marginTop: '2px'}}
-							className="about--contact--social__span">
-							<a href=""
-								className="social-icon">
+							<a href="" className="social-icon">
 								<img src={instagram} alt="instagram icon"/>
-
-								</a>
+							</a>
 						</span>
-						<span
-							style={{marginLeft: '1px', marginTop: '2px', width: '36px'}}
-							className="about--contact--social__span">
+						<span className="about--contact--social__span">
+							<a href="" className="social-icon">
+								<img src={facebook} alt="facebook icon"/>
+							</a>
+						</span>
+						<span className="about--contact--social__span">
 							<a href="" className="social-icon">
 								<img src={twitter} alt="twitter icon"/>
-
-								</a>
+							</a>
 						</span>
 					</div>
 				</div>

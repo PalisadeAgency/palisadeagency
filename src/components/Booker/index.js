@@ -10,26 +10,45 @@ const Booker = (props) => {
 				BOOKINGS
 			</h2>
 			<div className="booker">
-			<div className="booker--name bebas-bold">
-				RYAN OTIS	(CA)
-				<span className="booker--offering bebas-regular">
-					AGENT
-				</span>
-				<div className="booker--email bebas-regular">
-					<a href="mailto:R@palisadeagency.com">R@PALISADEAGENCY.COM</a>
+				<div className="bookers-left">
+					<div className="booker--name bebas-bold">
+						<div className="booker--large">
+							RYAN OTIS (CA)
+						</div>
+						<span className="booker--offering bebas-regular">
+							AGENT
+						</span>
+					</div>
+					<div className="booker--email bebas-regular">
+						<a href="mailto:R@palisadeagency.com">R@PALISADEAGENCY.COM</a>
+					</div>
+					<div className="booker--name bebas-bold">
+						<div className="booker--large">
+							RYAN OTIS (CA)
+						</div>
+						<span className="booker--offering bebas-regular">
+							AGENT
+						</span>
+					</div>
+					<div className="booker--email bebas-regular">
+						<a href="mailto:R@palisadeagency.com">R@PALISADEAGENCY.COM</a>
+					</div>
 				</div>
-			</div>
-			<div className="vert-bar">	</div>
-			<div className="booker-social">
-				<a href="" className="social-icon">
-					<img src={insta} alt="instagram icon"/></a>
-				<a href="" className="social-icon">
-					<img src={soundcloud} style={{
-								width: '45px',
-								height: '45px',
-							}}
-							alt="soundcloud icon"/></a>
+				<div className="vert-bar"></div>
+				<div className="bookers-right">
+					<div className="booker--name bebas-bold">
+						<div className="booker--large">
+							RYAN OTIS (CA)
+						</div>
+						<span className="booker--offering bebas-regular">
+							AGENT
+						</span>
+					</div>
+					<div className="booker--email bebas-regular">
+						<a href="mailto:R@palisadeagency.com">R@PALISADEAGENCY.COM</a>
+					</div>
 				</div>
+
 			</div>
 		</div>
 	)

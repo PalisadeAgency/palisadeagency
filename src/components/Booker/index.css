@@ -3,52 +3,67 @@
 }
 
 .bookings__h2 {
-  font-size: var(--heading-size-l);
-	margin-top: 102px;
-  margin-bottom: var(--heading-marginbottom);
+  font-size: 34px;
+  margin-top: 73px;
+  margin-bottom: 15px;
+  margin-left: 13px;
 }
 
 .booker {
-	border: 1pt solid rgba(0,0,0,0.45);
-	padding: 27px 47px 15px 30px;
 	position: relative;
+  height: 273px;
+  border: solid 1px #979797;
+  padding-top: 38px;
+  padding-left: 77px;
+  padding-bottom: 46px;
+  display: flex;
+  justify-content: space-between;
+}
+
+.bookers-left {
+
+}
+
+.bookers-right {
+
+}
+
+.bookers-right .booker--name {
+  padding-right: 211px;
+}
+
+
+.vert-bar {
+  width: 2px;
+  height: 197px;
+  object-fit:
+  contain;
+  border: solid 1px #979797;
 }
 
 .booker--name {
-  font-size: 46.3px;
-  line-height: 1.1;
+  display: flex;
+  align-items: baseline;
+}
+
+.booker--offering {
+  font-size: 15px;
+  height: 18px;
+  margin-left: 10px;
 }
 
 .booker--email {
-	font-size: 17.5px;
+  height: 18px;
+	font-size: 15px;
 	color: black;
-	margin-left: 2px;
+  padding-bottom: 55px;
 }
+
 .booker--email a {
 	color: black;
 }
-.booker-social {
-	margin-top: 50px;
-	margin-left: 2px;
-	display: flex;
-}
-.booker-social .social-icon {
-	display: block;
-}
-.booker-social a {
-	color: black;
-	margin-right: 14px;
-}
-.booker--offering {
-  font-size: calc(var(--heading-size-sm) + 3px);
-	margin-left: 10px;
-}
 
-.bookings .vert-bar {
-	position: absolute;
-	top: 50%;
-	left: 30%;
-	transform: translateY(-50%) translateX(-70%);
-	height: 160px;
-	border: 1px dashed rgba(0,0,0,0.7);
+.booker--large {
+  font-size: 45px;
+  height: 54px;
 }

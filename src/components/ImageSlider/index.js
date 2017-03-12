@@ -1,5 +1,6 @@
 import React, {PropTypes} from 'react'
 import Slider from 'react-slick';
+import logo from '../../../public/img/logo.png'
 require('slick-carousel/slick/slick.css')
 require('slick-carousel/slick/slick-theme.css')
 import './index.css'
@@ -22,6 +23,9 @@ const ImageSlider = (props) => {
 
 	return (
 		<div className='slider'>
+			<div className='logo'>
+				<img src={logo} className="logo" alt="Logo"/>
+			</div>
 			<Slider {...settings}>
 					{
 						images.map((image) => {

@@ -1,19 +1,17 @@
 #roster {
 }
 
-#roster::before {
-	display: block;
-	content: '';
-	padding-top: 184px;
+.rostering {
+	position: relative;
+	display: flex;
+	border: solid 1px #979797;
+	padding-top: 9px;
+	padding-bottom: 27px;
+	margin-top: 80px;
 }
 
 .roster {
-	display: flex;
-	border: 1pt solid rgba(0,0,0,0.45);
-	justify-content: space-between;
-	flex-wrap:wrap;
-	padding: 10px 0px 15px 0;
-	position: relative;
+
 }
 
 .roster--artist {
@@ -22,23 +20,24 @@
 	justify-content: space-between;
 	color: black;
 	flex-grow: 1;
-	margin: 10px;
-	width: 230px;
-	max-width: 230px;
+	width: 232px;
+	font-size: 20px;
+	height: 24px;
+	margin-top: 19px;
+	margin-left: 50px;
 	border-bottom: 1pt solid black;
-	padding: 0;
-}
-
-@media (min-width: 480px) {
-	.roster--artist {
-		margin: 13px 25px 13px 25px;
-	}
+	font-family: 'bebas_neueregular';
+	font-weight: normal;
 }
 
 .rostering__h2 {
-	font-size: 44px;
+	position: absolute;
+	top: 24.5%;
+	left: 0;
+	transform: translateX(-85%) translateY(-75.5%) rotate(-90deg);
+	font-size: 34px;
 	height: 53px;
-	font-size: var(--heading-size-l);
 	margin-top: 0;
+	color: #000;
 	margin-bottom: var(--heading-marginbottom);
 }

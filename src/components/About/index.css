@@ -1,103 +1,55 @@
 .about {
-	padding-bottom: 28px;
+	padding-bottom: 39px;
 }
 
-.about__info {
-	border: 1pt solid rgba(0,0,0,0.45);
-	padding: 5px 47px 27px 47px;
+.about-blocks {
 	display: flex;
+	border: solid 1px #979797;
+	align-items: center;
 	justify-content: space-between;
-	position: relative;
-	flex-direction: column;
-}
-
-@media (min-width: 480px) {
-	.about__info {
-		flex-direction: row;
-	}
+	height: 198px;
 }
 
 .about--info {
-	width: 100%;
-	margin-right: 30px;
-	padding-right: 30px;
-}
-
-@media (min-width: 480px) {
-	.about--info {
-		width: 496px;
-	}
-}
-
-.about__p {
-	margin-top: 30px;
-	font-size: var(--heading-size-m);
-	line-height: 1.17;
+	font-size: 20px;
 }
 
 .about__h2 {
-	font-size: var(--heading-size-l);
-	margin-top: 102px;
-	margin-bottom: var(--heading-marginbottom);
+	font-size: 32px;
+	margin-bottom: 15px;
+	margin-top: 73px;
+	margin-left: 13px;
 }
 
-.about--contact {
-	width: 100%;
-	display: flex;
-	flex-direction: column;
-	margin-top: 20px;
+
+.block-left {
+	height: 120px;
+	margin-top: 39px;
+	margin-bottom: 39px;
+	margin-left: 48px;
 }
 
-@media (min-width: 480px) {
-	.about--contact {
-		width: 50%;
-		text-align: center;
-		justify-content: center;
-		align-items: center;
-		flex-direction: row;
-	}
+.about-blocks .vert-bar {
+	height: 121px;
+
 }
 
-.about--contact--name__h2 {
-	font-size: 32.3px;
-	margin-right: 20px;
-	margin-top: 30px;
-	margin-left: 41px;
+.block-right {
+
 }
 
-@media (min-width: 480px) {
-	.about--contact--name__h2 {
-		font-size: 46.3px;
-		margin-top: 0;
-	}
+.about__p {
+	font-size: 20px;
+	display: block;
+	margin-bottom: 20px;
+	width: 431px;
 }
 
-.vert-bar {
-	position: absolute;
-	top: 50%;
-	left: 50%;
-	transform: translateY(-50%) translateX(-50%);
-	height: 160px;
-	width :1px;
-	margin-left: -16px;
-	margin-top: 2px;
-	border: 1px dashed rgba(0,0,0,0.7);
-	display: none;
-}
-
-@media (min-width: 480px) {
-	.vert-bar {
-		display: block;
-	}
-}
-
-.about--contact--social {
-	display: flex;
-	flex-direction: row;
-	margin-left: 44px;
-}
 
 .about--contact--social__span {
-	margin-right: 18px;
-	display: block;
+	margin-right: 37.3px;
+}
+
+.about--contact--social__span:last-of-type {
+	margin-right: 172.2px;
 }
