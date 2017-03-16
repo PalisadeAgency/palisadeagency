@@ -8,7 +8,9 @@
 	margin-right: 113px;
 }
 
-.artist-info .artist-headline {}
+.artist-info .artist-headline {
+	display: flex;
+}
 
 
 .artist-info .artist-name {
@@ -34,6 +36,10 @@
 }
 .artist-social a img {
 	height: 22.1px;
+}
+
+.artist-social .social-icon {
+	margin-right: 12.1px;
 }
 
 .artist-bio {
