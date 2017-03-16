@@ -43,6 +43,15 @@ const About = (props) => {
 					</div>
 				</div>
 			</div>
+			<div className="copyright" style={{
+					textAlign: 'center',
+					marginBottom: '33px',
+					marginTop: '42px',
+					fontSize: '16px'
+				}}>
+				&copy; 2017
+				<script>new Date().getFullYear()>2017&&document.write("-"+new Date().getFullYear());</script>, Palisade Agency.
+			</div>
 		</div>
 	)
 }

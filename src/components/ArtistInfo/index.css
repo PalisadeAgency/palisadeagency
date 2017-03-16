@@ -1,0 +1,54 @@
+.artist-content {
+	margin-top: 57px;
+	display: flex;
+}
+
+.artist-info {
+	width: 312px;
+	margin-right: 113px;
+}
+
+.artist-info .artist-headline {}
+
+
+.artist-info .artist-name {
+	font-size: 67px;
+}
+
+.artist-info .artist-locale {
+	font-size: 67px;
+}
+
+.artist-info .artist-offering {
+	font-size: 20px;
+}
+
+.artist-social {
+	display: flex;
+	margin-bottom: 40.9px;
+}
+
+.artist-social a {
+	display: block;
+	marign-right: 0.5px;
+}
+.artist-social a img {
+	height: 22.1px;
+}
+
+.artist-bio {
+	font-size: 20px;
+	margin-bottom: 30px;
+}
+
+.artist-image .slider {
+	width: 748px;
+	height: 436px;
+}
+
+.artist-image .slider__image {
+	width: 100%;
+	background-size: cover;
+	background-position: center;
+	background-repeat: no-repeat;
+}

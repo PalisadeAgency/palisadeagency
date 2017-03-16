@@ -1,7 +1,9 @@
 import React from 'react'
 import artists from '../db/artists'
-import ImageSlider from '../components/ImageSlider'
 import ArtistInfo from '../components/ArtistInfo'
+import Roster from '../components/Roster'
+import Booker from '../components/Booker'
+import About from '../components/About'
 
 const Artist = (props) => {
 	const {routeParams} = props
@@ -9,8 +11,10 @@ const Artist = (props) => {
 	return (
 		<div className='App'>
 			<div className="width-constraint">
-				<ImageSlider images={artist.images} />
 				<ArtistInfo artist={artist}/>
+				<Roster artists={artists}/>
+				<Booker />
+				<About />
 			</div>
 		</div>
 	)
