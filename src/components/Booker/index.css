@@ -1,18 +1,19 @@
 
 .bookings {
+  position: relative;
+  display: flex;
+  border: solid 1px #979797;
+  margin-top: 80px;
 }
 
 .bookings__h2 {
-  font-size: 34px;
-  margin-top: 73px;
-  margin-bottom: 15px;
-  margin-left: 13px;
+  margin-top: 22px;
 }
 
 .booker {
 	position: relative;
   height: 273px;
-  border: solid 1px #979797;
+  width: 100%;
   padding-top: 38px;
   padding-left: 77px;
   padding-bottom: 46px;
@@ -32,6 +33,9 @@
   padding-right: 211px;
 }
 
+.booker .vert-bar {
+  margin-left: 140px
+}
 
 .vert-bar {
   width: 2px;

@@ -65,6 +65,16 @@ h1, h2, h3, h4, h5, h6, h7 {
   height: 34px;
 }
 
+.tilted {
+  position: absolute;
+  top: 0;
+  left: 0;
+  transform: translateX(-85%) rotate(-90deg);
+  font-size: 34px;
+  height: 53px;
+  color: #000;
+  margin-bottom: var(--heading-marginbottom);
+}
 
 :root {
   --heading-size-xl: 95px;

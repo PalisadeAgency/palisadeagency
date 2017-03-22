@@ -1,5 +1,7 @@
 .about {
 	padding-bottom: 39px;
+	position: relative;
+	margin-top: 80px;
 }
 
 .about-blocks {
@@ -15,10 +17,7 @@
 }
 
 .about__h2 {
-	font-size: 32px;
-	margin-bottom: 15px;
-	margin-top: 73px;
-	margin-left: 13px;
+	margin-top: 10px;
 }
 
 

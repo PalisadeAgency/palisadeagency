@@ -10,18 +10,31 @@ const ArtistInfo = (props) => {
 	const {artist} = props
 	return (
 		<div className="artist-content">
+			<div className="artist-image">
+				<ImageSlider images={artist.images}/>
+			</div>
 			<div className="artist-info">
 				<div className="artist-headline">
 					<div className="artist-name bebas-bold">
-						{artist.name}
+						{artist.name} &nbsp;
 					</div>
 					<span className="artist-locale bebas-bold">
 						({artist.locale}) &nbsp;
 					</span>
-					<span className="artist-offering bebas-regular">
-						{artist.offering}
-					</span>
 				</div>
+				<div className="artist-bio bebas-regular">
+					{artist.bioOne}
+				</div>
+				<div className="artist-bio bebas-regular">
+					{artist.bioTwo}
+				</div>
+				<div className='artist-region bebas-bold'>
+					REGION: {artist.region}
+				</div>
+				<div className="artist-agent bebas-bold">
+					AGENT: {artist.agent}
+				</div>
+
 				<div className="artist-social">
 					{artist.social.instagram ?
 						<a href={artist.social.instagram} className="social-icon">
@@ -42,18 +55,8 @@ const ArtistInfo = (props) => {
 							<img src={soundcloud} alt="soundcloud icon"/>
 						</a>: null}
 				</div>
-				<div className="artist-bio bebas-regular">
-					{artist.bioOne}
-				</div>
-				<div className="artist-bio bebas-regular">
-					{artist.bioTwo}
-				</div>
-				<div className="artist-agent bebas-bold">
-					AGENT: {artist.agent}
-				</div>
-			</div>
-			<div className="artist-image">
-				<ImageSlider images={artist.images}/>
+
+				
 			</div>
 		</div>
 	)

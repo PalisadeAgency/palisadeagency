@@ -1,11 +1,11 @@
 .artist-content {
-	margin-top: 57px;
+	margin-top: 71px;
 	display: flex;
 }
 
 .artist-info {
-	width: 312px;
-	margin-right: 113px;
+	width: 494px;
+	margin-left: 45px;
 }
 
 .artist-info .artist-headline {
@@ -27,7 +27,7 @@
 
 .artist-social {
 	display: flex;
-	margin-bottom: 40.9px;
+	margin-top: 22px;
 }
 
 .artist-social a {
@@ -44,12 +44,21 @@
 
 .artist-bio {
 	font-size: 20px;
-	margin-bottom: 30px;
+	margin-bottom: 21px;
+}
+
+.artist-agent, .artist-region {
+	font-size: 20px;
+}
+
+.artist-region {
+	color: #c30016;
 }
 
 .artist-image .slider {
 	width: 748px;
 	height: 436px;
+	margin-top: 20px;
 }
 
 .artist-image .slider__image {

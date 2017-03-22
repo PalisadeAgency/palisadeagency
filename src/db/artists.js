@@ -17,7 +17,8 @@ export default [
 		bioOne: 'Soundcloud hit after Soundcloud hit, Baltra strolled through 2016 with grace, style and perseverance, picking up a whole slew of fans along the way. Notably, his single “Fade Away” amassed 1 million plays on YouTube.',
 		bioTwo: 'Without a doubt, the New York native looks to be one of the most promising artists heading into the 2017 season. With upcoming gigs in all corners of the world, Baltra is set on becoming an international power house.',
 		agent: 'RYAN OTIS',
-		col: 2
+		col: 2,
+		region: "NORTH AMERICA"
 	},
 	{
 		name: 'DJ BORING',

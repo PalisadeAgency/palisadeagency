@@ -31,13 +31,5 @@
 }
 
 .rostering__h2 {
-	position: absolute;
-	top: 24.5%;
-	left: 0;
-	transform: translateX(-85%) translateY(-75.5%) rotate(-90deg);
-	font-size: 34px;
-	height: 53px;
-	margin-top: 0;
-	color: #000;
-	margin-bottom: var(--heading-marginbottom);
+	margin-top: 11px;
 }

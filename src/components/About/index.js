@@ -8,7 +8,7 @@ import './index.css'
 const About = (props) => {
 	return (
 		<div className="about">
-			<h2 className="about__h2" id="about">
+			<h2 className="about__h2 tilted" id="about">
 				ABOUT
 			</h2>
 			<div className="about-blocks">

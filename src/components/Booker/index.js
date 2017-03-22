@@ -6,7 +6,7 @@ import './index.css'
 const Booker = (props) => {
 	return (
 		<div className="bookings">
-			<h2 className="bookings__h2" id="bookings">
+			<h2 className="bookings__h2 tilted" id="bookings">
 				BOOKINGS
 			</h2>
 			<div className="booker">

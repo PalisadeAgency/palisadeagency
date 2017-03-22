@@ -10,7 +10,7 @@ const Roster = (props) => {
 
 	return (
 		<div className="rostering" id="roster">
-			<h2 className="rostering__h2">
+			<h2 className="rostering__h2 tilted">
 				ROSTER
 			</h2>
 			<div className='roster'>

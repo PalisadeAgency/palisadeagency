@@ -10,7 +10,7 @@ import artists from '../db/artists'
 
 const Home = (props) => {
 	return (
-		<div className='App'>
+		<div className='App Home'>
 			<div className="width-constraint">
 				<div className='logo'>
 					<img src={logo} className="logo" alt="Logo"/>
