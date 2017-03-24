@@ -20,6 +20,27 @@ export default [
 		col: 2,
 		region: "NORTH AMERICA"
 	},
+  {
+		name: 'DJ Waterski',
+		locale: 'US',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: 'Soundcloud hit after Soundcloud hit, Baltra strolled through 2016 with grace, style and perseverance, picking up a whole slew of fans along the way. Notably, his single “Fade Away” amassed 1 million plays on YouTube.',
+		bioTwo: 'Without a doubt, the New York native looks to be one of the most promising artists heading into the 2017 season. With upcoming gigs in all corners of the world, Baltra is set on becoming an international power house.',
+		agent: 'RYAN OTIS',
+		col: 1,
+		region: "NORTH AMERICA"
+	},
 	{
 		name: 'DJ BORING',
 		locale: 'UK',
