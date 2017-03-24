@@ -5,8 +5,7 @@ export default [
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
-		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		images: [		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490372247/12654190_693650927443971_2227012800798930094_n_trspjp.jpg"
 		],
 		social: {
 			instagram: 'null',
@@ -14,8 +13,8 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Soundcloud hit after Soundcloud hit, Baltra strolled through 2016 with grace, style and perseverance, picking up a whole slew of fans along the way. Notably, his single “Fade Away” amassed 1 million plays on YouTube.',
-		bioTwo: 'Without a doubt, the New York native looks to be one of the most promising artists heading into the 2017 season. With upcoming gigs in all corners of the world, Baltra is set on becoming an international power house.',
+		bioOne: 'Born and raised in Northeast Philadelphia, Michael Baltra relocated to New York City over a decade ago, and has been drawing on the hustle and bustle of New York life to inform and shape his creative process ever since. In addition to music, Baltra underscores the importance of art and fashion in how he communicates himself as an artist. Baltra’s most noted releases include those on Fade Away & Tears Drop, which purvey a musical product that is dark, melodic, and soulful. Without a doubt, the producer’s status as a bright spot in the international underground house music scene has been solidified.',
+		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
 		region: "NORTH AMERICA"
@@ -39,7 +38,7 @@ export default [
 		bioTwo: 'Without a doubt, the New York native looks to be one of the most promising artists heading into the 2017 season. With upcoming gigs in all corners of the world, Baltra is set on becoming an international power house.',
 		agent: 'RYAN OTIS',
 		col: 1,
-		region: "NORTH AMERICA"
+		region: "GLOBAL"
 	},
 	{
 		name: 'DJ BORING',
