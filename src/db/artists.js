@@ -127,5 +127,24 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		col: 4
+	},
+  {
+		name: 'DJ HARRIS',
+		locale: 'US',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: 'Soundcloud hit after Soundcloud hit, Baltra strolled through 2016 with grace, style and perseverance, picking up a whole slew of fans along the way. Notably, his single “Fade Away” amassed 1 million plays on YouTube.',
+		col: 2,
+		region: "NORTH AMERICA"
 	}
 ]
