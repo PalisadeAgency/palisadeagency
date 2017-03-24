@@ -1,10 +1,11 @@
 .artist-content {
 	margin-top: 71px;
 	display: flex;
+	margin-left: 134px;
 }
 
 .artist-info {
-	width: 494px;
+	width: 100%;
 	margin-left: 45px;
 }
 
@@ -49,6 +50,7 @@
 .artist-bio {
 	font-size: 20px;
 	margin-bottom: 21px;
+	margin-right: 134px;
 }
 
 .artist-agent, .artist-region {

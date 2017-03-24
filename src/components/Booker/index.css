@@ -4,6 +4,8 @@
   display: flex;
   border: solid 1px #979797;
   margin-top: 80px;
+  margin-right: 134px;
+	margin-left: 134px;
 }
 
 .bookings__h2 {
