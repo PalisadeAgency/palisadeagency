@@ -13,7 +13,7 @@ const Home = (props) => {
 		<div className='App Home'>
 			<div className="width-constraint">
 				<div className='logo'>
-					<img src={logo} className="logo" alt="Logo"/>
+					<img src={logo} alt="Logo"/>
 				</div>
 				<ImageSlider images={images} />
 				<Roster artists={artists}/>
