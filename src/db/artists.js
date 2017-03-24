@@ -40,41 +40,9 @@ export default [
 		col: 2,
 		region: "GLOBAL"
 	},
-	{
-		name: 'DJ BORING',
+	 {
+		name: 'DJ Boring',
 		locale: '(UK)',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: true,
-		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314778/10304699_803829093017561_3052367715023260839_n_ups0bk.jpg",
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314778/16142492_1353791094677372_4005456219961591458_n_ymgd5i.jpg"
-		],
-		col: 3
-	},
-	{
-		name: 'DJ SEINFELD',
-		locale: '(SE)',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: true,
-		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487315174/16587167_1108807189241440_9023799678211980251_o_lgrtlb.jpg",
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487315174/16142992_1353789464677535_6071205418429335521_n_rw41j4.jpg"
-		],
-		col: 4
-	},
-	{
-		name: 'DJ SWAGGER',
-		locale: '(DE)',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: true,
-		col: 1
-	},
-	{
-		name: 'DJ ASTRALLL',
-		locale: 'AUS',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
@@ -87,76 +55,20 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Soundcloud hit after Soundcloud hit, Baltra strolled through 2016 with grace, style and perseverance, picking up a whole slew of fans along the way. Notably, his single “Fade Away” amassed 1 million plays on YouTube.',
-		bioTwo: 'Without a doubt, the New York native looks to be one of the most promising artists heading into the 2017 season. With upcoming gigs in all corners of the world, Baltra is set on becoming an international power house.',
+		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2
+		col: 3,
+		region: "GLOBAL"
 	},
-	{
-		name: 'GREY PEOPLE',
-		locale: 'US',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		col: 2
-	},
-	{
-		name: 'BALTRA',
-		locale: 'US',
-		offering: 'LIVE + DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		col: 2
-	},
-	{
-		name: 'DJ BORING',
-		locale: 'UK',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		col: 3
-	},
-	{
-		name: 'DJ SEINFELD',
-		locale: 'SE',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		col: 3
-	},
-	{
-		name: 'DJ SWAGGER',
-		locale: 'DE',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		col: 3
-	},
-	{
-		name: 'DJ ASTRALLL',
-		locale: 'AUS',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		col: 4
-	},
-	{
-		name: 'GREY PEOPLE',
-		locale: 'US',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		col: 4
-	},
-  {
-		name: 'DJ HARRIS',
-		locale: 'US',
+	 {
+		name: 'DJ Seinfeld',
+		locale: '(SE)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg",
-          "https://scontent-lga3-1.xx.fbcdn.net/v/t31.0-8/15016449_643079882539100_1983797679203784261_o.jpg?oh=29df495044bcb4204fdec9da9bbef5b6&oe=595FF2A9",
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
 		],
 		social: {
 			instagram: 'null',
@@ -164,8 +76,115 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Soundcloud hit after Soundcloud hit, Baltra strolled through 2016 with grace, style and perseverance, picking up a whole slew of fans along the way. Notably, his single “Fade Away” amassed 1 million plays on YouTube.',
+		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 4,
+		region: "GLOBAL"
+	},
+	 {
+		name: 'DJ Swagger',
+		locale: '(DE)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 1,
+		region: "GLOBAL"
+	},
+	 {
+		name: 'Grey People',
+		locale: '(US)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
 		col: 2,
-		region: "NORTH AMERICA"
-	}
+		region: "GLOBAL"
+	},
+   {
+		name: 'Harrison BDP',
+		locale: '(UK)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 3,
+		region: "GLOBAL"
+	},
+   {
+		name: 'Interstate',
+		locale: '(DE)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 3,
+		region: "GLOBAL"
+	},
+   {
+		name: 'J-Albert',
+		locale: '(US)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 4,
+		region: "North America"
+	},
 ]
