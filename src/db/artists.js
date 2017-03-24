@@ -230,4 +230,46 @@ export default [
 		col: 3,
 		region: "GLOBAL"
 	},
+   {
+		name: 'Räar',
+		locale: '(FR)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 4,
+		region: "GLOBAL"
+	},
+   {
+		name: 'Royer',
+		locale: '(FR)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioTwo: '',
+		agent: 'Mat Constance',
+		col: 1,
+		region: "GLOBAL"
+	},
 ]
