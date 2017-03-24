@@ -1,7 +1,7 @@
 export default [
 	{
 		name: 'BALTRA',
-		locale: 'US',
+		locale: '(US)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
@@ -21,8 +21,8 @@ export default [
 		region: "NORTH AMERICA"
 	},
   {
-		name: 'DJ Waterski',
-		locale: 'US',
+		name: 'Deejay Astral',
+		locale: '(UK)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
