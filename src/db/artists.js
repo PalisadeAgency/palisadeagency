@@ -13,7 +13,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Born and raised in Northeast Philadelphia, Michael Baltra relocated to New York City over a decade ago, and has been drawing on the hustle and bustle of New York life to inform and shape his creative process ever since. In addition to music, Baltra underscores the importance of art and fashion in how he communicates himself as an artist. Baltra’s most noted releases include those on Fade Away & Tears Drop, which purvey a musical product that is dark, melodic, and soulful.',
+		bioOne: 'Born and raised in Northeast Philadelphia, Michael Baltra relocated to New York City over a decade ago, and has been drawing on the hustle and bustle of New York life to inform and shape his creative process ever since. In addition to music, Baltra underscores the importance of art and fashion in how he communicates himself as an artist. Baltra’s most noted releases include those on Fade Away & Tears Drop, which purvey a musical product that is dark, melodic, and soulful.                            ',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 1,
