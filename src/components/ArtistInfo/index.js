@@ -51,12 +51,12 @@ const ArtistInfo = (props) => {
 							<img src={twitter} alt="instagram icon"/>
 						</a>: null}
 					{artist.social.soundcloud ?
-						<a href={artist.social.soundcloud} className="social-icon">
+						<a href={artist.social.soundcloud} className="social-icon social-icon-soundcloud">
 							<img src={soundcloud} alt="soundcloud icon"/>
 						</a>: null}
 				</div>
 
-				
+
 			</div>
 		</div>
 	)

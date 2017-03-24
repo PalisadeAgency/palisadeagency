@@ -34,8 +34,12 @@
 	display: block;
 	marign-right: 0.5px;
 }
+
 .artist-social a img {
 	height: 22.1px;
+}
+.artist-social .social-icon-soundcloud img {
+	height: 28px;
 }
 
 .artist-social .social-icon {

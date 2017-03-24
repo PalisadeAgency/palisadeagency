@@ -46,7 +46,7 @@ const About = (props) => {
 			<div className="copyright" style={{
 					textAlign: 'center',
 					marginBottom: '33px',
-					marginTop: '42px',
+					marginTop: '33px',
 					fontSize: '16px'
 				}}>
 				&copy; 2017
