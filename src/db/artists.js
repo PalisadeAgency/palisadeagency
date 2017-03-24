@@ -42,7 +42,7 @@ export default [
 	},
 	{
 		name: 'DJ BORING',
-		locale: 'UK',
+		locale: '(UK)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: true,
@@ -50,11 +50,11 @@ export default [
 			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314778/10304699_803829093017561_3052367715023260839_n_ups0bk.jpg",
 			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314778/16142492_1353791094677372_4005456219961591458_n_ymgd5i.jpg"
 		],
-		col: 1
+		col: 3
 	},
 	{
 		name: 'DJ SEINFELD',
-		locale: 'SE',
+		locale: '(SE)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: true,
@@ -62,11 +62,11 @@ export default [
 			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487315174/16587167_1108807189241440_9023799678211980251_o_lgrtlb.jpg",
 			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487315174/16142992_1353789464677535_6071205418429335521_n_rw41j4.jpg"
 		],
-		col: 1
+		col: 4
 	},
 	{
 		name: 'DJ SWAGGER',
-		locale: 'DE',
+		locale: '(DE)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: true,
