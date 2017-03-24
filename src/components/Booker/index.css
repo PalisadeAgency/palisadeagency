@@ -18,9 +18,14 @@
   width: 100%;
   padding-top: 38px;
   padding-left: 77px;
-  padding-bottom: 46px;
+  padding-bottom: 38px;
   display: flex;
   justify-content: space-between;
+}
+
+.booker a {
+  color: #000;
+  display: block;
 }
 
 .bookers-left {
@@ -32,11 +37,11 @@
 }
 
 .bookers-right .booker--name {
-  padding-right: 211px;
+  padding-right: 170px;
 }
 
 .booker .vert-bar {
-  margin-left: 140px
+  margin-left: 110px;
 }
 
 .vert-bar {

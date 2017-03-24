@@ -11,42 +11,51 @@ const Booker = (props) => {
 			</h2>
 			<div className="booker">
 				<div className="bookers-left">
+					<a href="mailto:R@palisadeagency.com">
+							<div className="booker--name bebas-bold">
+								<div className="booker--large">
+									RYAN OTIS (CA)
+								</div>
+								<span className="booker--offering bebas-regular">
+									HEAD AGENT
+								</span>
+							</div>
+							<div className="booker--email bebas-regular">
+							R@PALISADEAGENCY.COM
+							</div>
+					</a>
+
+				<a href="mailto:R@palisadeagency.com">
 					<div className="booker--name bebas-bold">
 						<div className="booker--large">
-							RYAN OTIS (CA)
+							ADAM RUTLEDGE (CA)
 						</div>
 						<span className="booker--offering bebas-regular">
 							AGENT
 						</span>
 					</div>
 					<div className="booker--email bebas-regular">
-						<a href="mailto:R@palisadeagency.com">R@PALISADEAGENCY.COM</a>
+						A@PALISADEAGENCY.COM
 					</div>
-					<div className="booker--name bebas-bold">
-						<div className="booker--large">
-							RYAN OTIS (CA)
-						</div>
-						<span className="booker--offering bebas-regular">
-							AGENT
-						</span>
-					</div>
-					<div className="booker--email bebas-regular">
-						<a href="mailto:R@palisadeagency.com">R@PALISADEAGENCY.COM</a>
-					</div>
+				</a>
+
+
 				</div>
 				<div className="vert-bar"></div>
 				<div className="bookers-right">
-					<div className="booker--name bebas-bold">
-						<div className="booker--large">
-							RYAN OTIS (CA)
+					<a href="mailto:M@palisadeagency.com">
+						<div className="booker--name bebas-bold">
+							<div className="booker--large">
+								MAT CONSTANCE (CA)
+							</div>
+							<span className="booker--offering bebas-regular">
+								AGENT
+							</span>
 						</div>
-						<span className="booker--offering bebas-regular">
-							AGENT
-						</span>
-					</div>
-					<div className="booker--email bebas-regular">
-						<a href="mailto:R@palisadeagency.com">R@PALISADEAGENCY.COM</a>
-					</div>
+						<div className="booker--email bebas-regular">
+							M@PALISADEAGENCY.COM
+						</div>
+					</a>
 				</div>
 
 			</div>
