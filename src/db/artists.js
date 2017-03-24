@@ -16,7 +16,7 @@ export default [
 		bioOne: 'Born and raised in Northeast Philadelphia, Michael Baltra relocated to New York City over a decade ago, and has been drawing on the hustle and bustle of New York life to inform and shape his creative process ever since. In addition to music, Baltra underscores the importance of art and fashion in how he communicates himself as an artist. Baltra’s most noted releases include those on Fade Away & Tears Drop, which purvey a musical product that is dark, melodic, and soulful.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 1,
 		region: "NORTH AMERICA"
 	},
   {
@@ -34,10 +34,10 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Soundcloud hit after Soundcloud hit, Baltra strolled through 2016 with grace, style and perseverance, picking up a whole slew of fans along the way. Notably, his single “Fade Away” amassed 1 million plays on YouTube.',
-		bioTwo: 'Without a doubt, the New York native looks to be one of the most promising artists heading into the 2017 season. With upcoming gigs in all corners of the world, Baltra is set on becoming an international power house.',
+		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 1,
+		col: 2,
 		region: "GLOBAL"
 	},
 	{
