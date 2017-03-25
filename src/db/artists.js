@@ -131,7 +131,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490460295/Harrison_BDP_bjz57g.png"
 		],
 		social: {
 			instagram: 'null',
@@ -139,7 +139,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioOne: 'Based in Cardiff, Wales, Harrison Webber is known and loved for tracks such as “Decompression” (out on a multi-artist EP on Strcr Records) and “It’s Foggy Outside” (forthcoming on Artesian Sounds), which illustrate Webber’s signature style of low, jabby bass hits, plush chords, and crisp hats. Webber has an exciting year ahead of himself with five EP’s slated to release in 2017.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 3,
