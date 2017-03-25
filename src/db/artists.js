@@ -328,7 +328,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioOne: 'As one of the hottest acts to emerge out of Australia in the last year, DJ and production duo Sonderr are ready to take the world by storm. Offering up an incredibly diverse selection of music in both their releases and sets, these Shall Not Fade poster boys are ones to watch in 2017.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
