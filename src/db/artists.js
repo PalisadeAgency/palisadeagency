@@ -167,13 +167,13 @@ export default [
 		region: "GLOBAL"
 	},
    {
-		name: 'J-Albert',
+		name: 'J. Albert',
 		locale: '(US)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457995/j._albert_web_vtcbfq.png"
 		],
 		social: {
 			instagram: 'null',
@@ -181,7 +181,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioOne: 'Co-founder of Exotic Dance Records',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 1,
