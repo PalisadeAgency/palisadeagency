@@ -307,7 +307,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'A turn of the century house lable based out of the UK. Lost Palms and Mall Grab's Steal City Dance Diks are sublables.',
+		bioOne: 'A turn of the century house lable based out of the UK. Lost Palms and Mall Grab's Steel City Dance Disks are sublables.',
 		bioTwo: '',
 		agent: 'RYAN OTIS, MAT CONSTANCE',
 		col: 3,
