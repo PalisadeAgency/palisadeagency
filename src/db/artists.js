@@ -188,6 +188,26 @@ export default [
 		region: "North America"
 	},
   {
+		name: 'Natural Sciences',
+		locale: '(UK)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: '“Natural Sciences is a communication tool for emerging mutants operated and run by Alex Hall (Animal) in Manchester, U.K”- a record label, for short. With 12 releases over the past two years, Natural Sciences counts the likes of DJ Seinfeld, DJ Swagger, and Textasy to its roster- encompassing an emerging gritty and emotive sound within Europe’s dance circuit.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 2,
+		region: "GLOBAL"
+  {
 		name: 'Panthera Krause',
 		locale: '(DE)',
 		offering: 'DJ',
@@ -205,7 +225,7 @@ export default [
 		bioOne: 'Based in Leipzig, Germany, Panthera Krause rooted his artistic endeavours in illustration and design. Noticeably, These artistic sensibilities pour over into his audio production, where sounds oscillate between uplifting chords and winding arpeggiators. His latest releases include: his Stonith EP on Riotvan; Solar System out on Lobster Theremin; and Umami on Uncanny Valley.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 3,
 		region: "GLOBAL"
 	},
   {
@@ -226,7 +246,7 @@ export default [
 		bioOne: 'Brighton based Spanniard Pépe has been featured on the likes of Sprung Records, In Records Paris, and most recently, Renaissance.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 3,
+		col: 4,
 		region: "GLOBAL"
 	},
    {
@@ -247,7 +267,7 @@ export default [
 		bioOne: 'While intelligently placing antique vocal samples over contemporary choked-out backings, Paris-based Raar’s music is both intimate and thought provoking, driving the impression that the artist comprises a standout within the contemporary raw techno/house scene. With releases forthcoming on “Who’s Susan”, “Nagual Drift”, “La Chinerie”, “Mint Tea”, and “Piff Records”, Raar is tirelessly solidifying his status.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 4,
+		col: 1,
 		region: "GLOBAL"
 	},
    {
@@ -268,9 +288,29 @@ export default [
 		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
 		bioTwo: '',
 		agent: 'Mat Constance',
-		col: 1,
+		col: 2,
 		region: "GLOBAL"
 	},
+  {
+		name: 'Shall Not Fade',
+		locale: '(UK)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		],
+		social: {
+			instagram: 'null',
+			facebook: 'null',
+			twitter: 'null',
+			soundcloud: 'null'
+		},
+		bioOne: '',
+		bioTwo: '',
+		agent: 'RYAN OTIS, MAT CONSTANCE',
+		col: 3,
+		region: "GLOBAL"
    {
 		name: 'Sonderr',
 		locale: '(AUS)',
@@ -289,7 +329,7 @@ export default [
 		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 4,
 		region: "GLOBAL"
 	},
    {
@@ -310,7 +350,7 @@ export default [
 		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 3,
+		col: 1,
 		region: "GLOBAL"
 	},
    {
@@ -331,7 +371,7 @@ export default [
 		bioOne: 'Trudge thrives under his mysterious, clandestine persona. The Paris-based producer plays strictly live sets, and combines groove-soaked rhythms, swirled hi-hats, and thick bass-lines to communicate feelings not possible to disclose through words. While generating widespread acclaim with his releases on Axe Traxx, Lost Palms, and Dance Around 88, Trudge has several projects set to release in 2017- as with his mysterious persona, details are still under wraps.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 4,
+		col: 2,
 		region: "GLOBAL"
 	},
    {
@@ -352,7 +392,7 @@ export default [
 		bioOne: 'Former Exist Festival organizer, Serbian-born musician X-Coast now creates art out of Bushwick, New York. Coming off of releases on Lobster Theremin’s White-Label and Mall Grab’s Steel City Dance Discs -and propelled by his a smash-single “Mango Bay”- X-Coast’s fanbase and reputation is beginning to reach a critical mass.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 1,
+		col: 3,
 		region: "GLOBAL"
 	},
 ]
