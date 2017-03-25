@@ -207,7 +207,8 @@ export default [
 		agent: 'RYAN OTIS',
 		col: 2,
 		region: "GLOBAL"
-  {
+ },
+   {
 		name: 'Panthera Krause',
 		locale: '(DE)',
 		offering: 'DJ',
@@ -311,6 +312,7 @@ export default [
 		agent: 'RYAN OTIS, MAT CONSTANCE',
 		col: 3,
 		region: "GLOBAL"
+  },
    {
 		name: 'Sonderr',
 		locale: '(AUS)',
