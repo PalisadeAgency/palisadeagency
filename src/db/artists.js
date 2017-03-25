@@ -215,7 +215,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457260/Pepe_web_hw1znv.png"
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490458452/Pepe_web_r61dg3.png"
 		],
 		social: {
 			instagram: 'null',
@@ -223,7 +223,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioOne: 'Brighton based Spanniard Pépe has been featured on the likes of Sprung Records, In Records Paris, and most recently, Renaissance.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 3,
