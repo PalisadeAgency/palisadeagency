@@ -16,7 +16,7 @@ const ArtistInfo = (props) => {
 			<div className="artist-info">
 				<div className="artist-headline">
 					<div className="artist-name bebas-bold">
-						{artist.name} ({artist.locale})
+						{artist.name} {artist.locale}
 					</div>
 				</div>
 				<div className="artist-bio bebas-regular">
