@@ -68,7 +68,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457262/dj_seinfeld_web_qbcx3x.png"
 		],
 		social: {
 			instagram: 'null',
@@ -89,7 +89,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457260/dj_swagger_web_y9vyph.png"
 		],
 		social: {
 			instagram: 'null',
@@ -110,7 +110,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457261/grey_people_web_du22qr.png"
 		],
 		social: {
 			instagram: 'null',
@@ -194,7 +194,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457260/Panthera_Web_x5ecmo.png"
 		],
 		social: {
 			instagram: 'null',
@@ -215,7 +215,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457260/Pepe_web_hw1znv.png"
 		],
 		social: {
 			instagram: 'null',
@@ -236,7 +236,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"https://res.cloudinary.com/luxip6j0n/image/upload/v1487314771/deejay-astral_dnyjsa.jpg"
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457260/raar_web_rkujdf.png"
 		],
 		social: {
 			instagram: 'null',
