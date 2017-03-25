@@ -328,7 +328,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioOne: 'Trudge thrives under his mysterious, clandestine persona. The Paris-based producer plays strictly live sets, and combines groove-soaked rhythms, swirled hi-hats, and thick bass-lines to communicate feelings not possible to disclose through words. While generating widespread acclaim with his releases on Axe Traxx, Lost Palms, and Dance Around 88, Trudge has several projects set to release in 2017- as with his mysterious persona, details are still under wraps.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
