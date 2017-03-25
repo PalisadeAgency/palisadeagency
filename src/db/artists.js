@@ -202,7 +202,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Based in Leipzig, Germany, Panthera Krause rooted his artistic endeavours in illustration and design. Noticeably, These artistic sensibilities pour over into his audio production, where sounds oscillate between uplifting chords and winding arpeggiators. His latest releases include: his Stonith EP on Riotvan; Solar System out on Lobster Theremin; and Umami on Uncanny Valley. Further, Krause has three forthcoming EP’s slated for release in 2017, where we can expect more of the same distinction from the German veteran.',
+		bioOne: 'Based in Leipzig, Germany, Panthera Krause rooted his artistic endeavours in illustration and design. Noticeably, These artistic sensibilities pour over into his audio production, where sounds oscillate between uplifting chords and winding arpeggiators. His latest releases include: his Stonith EP on Riotvan; Solar System out on Lobster Theremin; and Umami on Uncanny Valley.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
