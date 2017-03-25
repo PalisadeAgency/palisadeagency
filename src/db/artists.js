@@ -244,7 +244,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioOne: 'While intelligently placing antique vocal samples over contemporary choked-out backings, Paris-based Raar’s music is both intimate and thought provoking, driving the impression that the artist comprises a standout within the contemporary raw techno/house scene. With releases forthcoming on “Who’s Susan”, “Nagual Drift”, “La Chinerie”, “Mint Tea”, and “Piff Records”, Raar is tirelessly solidifying his status.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
