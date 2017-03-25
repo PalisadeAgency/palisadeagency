@@ -97,7 +97,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioOne: '18-year-old German producer DJ Swagger keeps a low-profile, while bringing together acid synths, breakbeats, cheeky samples, and 909 drum hits into melodic dance-floor-ready productions perfect for youth-driven DIY parties. His previous work put out by E-Beams and Natural Sciences set a high standard for what’s to come from the mysterious DJ Swagger.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 1,
