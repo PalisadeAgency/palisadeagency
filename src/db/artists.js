@@ -55,7 +55,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioOne: 'Australian born, London-based musician Tristan Hallis sent ripples through the underground house music community with the release of his single “Winona” on E-Beamz. A vinyl aficionado and notoriously friendly dude, Boring’s signature stripped-down sound has become somewhat of a blueprint for an emerging sub-genre of house- a raw distorted music that stands as a stark contrast to musical elements of the commercial club scene.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 3,
