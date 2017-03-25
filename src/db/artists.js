@@ -76,7 +76,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioOne: 'Classically schooled in music growing up, Armand Jakkobson embraces feeling in his artistic production. The Barcelona-based Swede elegantly captures human emotion and packages it into tracks that are perfect for both the bedroom and the dance-floor, while referencing influences ranging from L.I.E.S Records to early Detroit House. In 2017, we can look forward to Jakkobson’s music released on several labels, including: Ectotherm, Lobster Fury, X-Kalay, and Natural Sciences.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
