@@ -76,7 +76,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Classically schooled in music growing up, Armand Jakkobson embraces feeling in his artistic production. The Barcelona-based Swede elegantly captures human emotion and packages it into tracks that are perfect for both the bedroom and the dance-floor, while referencing influences ranging from L.I.E.S Records to early Detroit House. In 2017, we can look forward to Jakkobson’s music released on several labels, including: Ectotherm, Lobster Fury, X-Kalay, and Natural Sciences.',
+		bioOne: 'Classically schooled in music growing up, Armand Jakkobson embraces feeling in his artistic production. The Barcelona-based Swede elegantly captures human emotion and packages it into tracks that are perfect for both the bedroom and the dance-floor, while referencing influences ranging from L.I.E.S Records to early Detroit House. In 2017, we can look forward to Jakkobson’s releases on Ectotherm, Lobster Fury, Lobster Theremin, and Natural Sciences.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
