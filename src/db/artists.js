@@ -139,7 +139,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Based in Cardiff, Wales, Harrison Webber is known and loved for tracks such as “Decompression” (out on a multi-artist EP on Strcr Records) and “It’s Foggy Outside” (forthcoming on Artesian Sounds), which illustrate Webber’s signature style of low, jabby bass hits, plush chords, and crisp hats. Webber has an exciting year ahead of himself with five EP’s slated to release in 2017.',
+		bioOne: 'Based in Cardiff, Wales, Harrison Webber is known and loved for tracks such as “Decompression” (out on a multi-artist EP on Strcr Records) and “It’s Foggy Outside” (forthcoming on Artesian Sounds), which illustrate Webber’s signature style of low, jabby bass hits, plush chords, and crisp hats. Webber has an exciting year ahead of himself with five EP’s slated for release.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 3,
