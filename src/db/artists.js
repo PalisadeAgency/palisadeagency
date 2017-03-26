@@ -244,7 +244,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Brighton based Spanniard Pépe has been featured on the likes of Sprung Records, In Records Paris, and most recently, Renaissance.',
+		bioOne: 'Brighton based Spanniard Pépe has been featured on the likes of Sprung Records, In Records Paris, and most recently, Renascence.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
