@@ -293,13 +293,13 @@ export default [
 		region: "GLOBAL"
 	},
   {
-		name: 'S.N.F',
+		name: 'Shall Not Fade',
 		locale: '(UK)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490467388/shall_not_fade_vcunrp.png"
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490505741/shall_not_fade_evbwyi.png"
 		],
 		social: {
 			instagram: 'null',
