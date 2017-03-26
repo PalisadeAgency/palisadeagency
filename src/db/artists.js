@@ -307,7 +307,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Shall Not Fade is a turn of the century house lable based out of the UK. Lost Palms and Mall Grabs Steel City Dance Disks are sublabels.',
+		bioOne: 'Shall Not Fade is a turn of the century house lable based out of the UK. Lost Palms and Mall Grab’s Steel City Dance Discs are sublabels.',
 		bioTwo: '',
 		agent: 'RYAN OTIS, MAT CONSTANCE',
 		col: 3,
