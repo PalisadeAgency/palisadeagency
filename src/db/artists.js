@@ -391,7 +391,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Former Exist Festival organizer, Serbian-born musician X-Coast now creates art out of Bushwick, New York. Coming off of releases on Lobster Theremin’s White-Label and Mall Grab’s Steel City Dance Discs -and propelled by his a smash-single “Mango Bay”- X-Coast’s fanbase and reputation is beginning to reach a critical mass.',
+		bioOne: 'Former Exit Festival organizer, Serbian-born musician X-Coast now creates art out of Bushwick, New York. Coming off of releases on Lobster Theremin’s White-Label and Mall Grab’s Steel City Dance Discs -and propelled by his a smash-single “Mango Bay”- X-Coast’s fanbase and reputation is beginning to reach a critical mass.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 3,
