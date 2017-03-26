@@ -286,7 +286,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following. Expect big things to come in 2017.',
+		bioOne: 'After completing his education in Montreal, Royer lived in both Chicago and Copenhagen before settling in Paris. His releases on Lobster Theremin and Closer point at a keen sensibility for pairing ambient noises with dancey-beats. The product is a laid-back sound that absolutely lights-up dance-floors. Royer kicked off 2017 with just-released EP entitled “Documented” on Mörk Records, leaving us in high anticipation of what is to come.',
 		bioTwo: '',
 		agent: 'Mat Constance',
 		col: 2,
