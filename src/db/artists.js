@@ -236,7 +236,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490458941/Pepe_web_sysc2d.png"
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490501022/Pepe_web_maj9ib.png"
 		],
 		social: {
 			instagram: 'null',
@@ -293,7 +293,7 @@ export default [
 		region: "GLOBAL"
 	},
   {
-		name: 'Shall Not Fade',
+		name: 'S.N.F',
 		locale: '(UK)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
@@ -307,7 +307,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'null'
 		},
-		bioOne: 'A turn of the century house lable based out of the UK. Lost Palms and Mall Grab s Steel City Dance Disks are sublabels.',
+		bioOne: 'Shall Not Fade is a turn of the century house lable based out of the UK. Lost Palms and Mall Grabs Steel City Dance Disks are sublabels.',
 		bioTwo: '',
 		agent: 'RYAN OTIS, MAT CONSTANCE',
 		col: 3,
