@@ -188,13 +188,13 @@ export default [
 		region: "North America"
 	},
   {
-		name: 'N. Sciences',
+		name: 'Natural Sciences',
 		locale: '(UK)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490471941/Natural_Sciences_id35eu.png"
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490506028/Natural_Sciences_wu5o2p.png"
 		],
 		social: {
 			instagram: 'null',
