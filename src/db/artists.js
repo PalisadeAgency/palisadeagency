@@ -29,10 +29,10 @@ export default [
 		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490507099/deejay_astral_slewie.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
-			twitter: 'null',
-			soundcloud: 'null'
+			instagram: 'www.instagram.com/deejayastral',
+			facebook: 'www.facebook.com/deejaayastral',
+			twitter: 'www.twitter.com/deejayastral',
+			soundcloud: 'www.soundcloud.com/deejayastral'
 		},
 		bioOne: 'Hailing from London, Samuel Walker produces and DJ’s records under the moniker “Deejay Astral” (previously “Palace”). With the switch in title, Walker delved deeper into the emotional side of his sound, and has since begun to draw more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage. His most prominent release on Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following.',
 		bioTwo: '',
@@ -50,10 +50,10 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490504493/boring_web_pbaaph.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
-			twitter: 'null',
-			soundcloud: 'null'
+			instagram: 'https://www.instagram.com/internet.boring/',
+			facebook: 'www.facebook.com/djboring90',
+			twitter: 'www.twitter.com/DJ_BORING',
+			soundcloud: 'www.soundcloud.com/djboring1990'
 		},
 		bioOne: 'Australian born, London-based musician Tristan Hallis sent ripples through the underground house music community with the release of his single “Winona” on E-Beamz. A vinyl aficionado and notoriously friendly dude, Boring’s signature stripped-down sound has become somewhat of a blueprint for an emerging sub-genre of house- a raw distorted music that stands as a stark contrast to musical elements of the commercial club scene.',
 		bioTwo: '',
@@ -71,10 +71,10 @@ export default [
 		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457262/dj_seinfeld_web_qbcx3x.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
-			twitter: 'null',
-			soundcloud: 'null'
+			instagram: 'www.instagram.com/DJ_Seinfeld',
+			facebook: 'www.facebook.com/djseinfeld',
+			twitter: 'www.twitter.com/dj_seinfeld',
+			soundcloud: 'www.soundcloud.com/dj-seinfeld'
 		},
 		bioOne: 'Classically schooled in music growing up, Armand Jakkobson embraces feeling in his artistic production. The Barcelona-based Swede elegantly captures human emotion and packages it into tracks that are perfect for both the bedroom and the dance-floor, while referencing influences ranging from L.I.E.S Records to early Detroit House. In 2017, we can look forward to Jakkobson’s releases on Ectotherm, Lobster Fury, Lobster Theremin, and Natural Sciences.',
 		bioTwo: '',
