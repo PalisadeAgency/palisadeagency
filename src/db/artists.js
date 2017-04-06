@@ -160,7 +160,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'https://soundcloud.com/interstate98'
 		},
-		bioOne: 'Bielfield mother fuckin ledgend. 1997.',
+		bioOne: 'Hailing from Bielefeld, Germany, Interstate is a fresh-faced DJ and producer making waves in the online dance community. His non-stop and blistering soundcloud presence is backed up by his most popular work “Vanice Beach”, released on Waxtefacts 4-track compilation in 2016. As in “Vanice Beach”, Interstate’s productions typically feature playful 4/4 beats, faded vocal samples, and clubby synth pads. However, his forthcoming collaborative project, “The Interminable Now” (out on Interstate / 12 Recs) is ambient and emotional, giving weight to the producer’s eclectic taste and musical talent.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
