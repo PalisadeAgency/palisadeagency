@@ -93,9 +93,9 @@ export default [
 		],
 		social: {
 			instagram: 'null',
-			facebook: 'null',
+			facebook: 'https://www.facebook.com/therealdjswagger',
 			twitter: 'null',
-			soundcloud: 'null'
+			soundcloud: 'https://soundcloud.com/djswaggerxxx'
 		},
 		bioOne: '18-year-old German producer DJ Swagger keeps a low-profile, while bringing together acid synths, breakbeats, cheeky samples, and 909 drum hits into melodic dance-floor-ready productions perfect for youth-driven DIY parties. His previous work put out by E-Beams and Natural Sciences set a high standard for what’s to come from the mysterious DJ Swagger.',
 		bioTwo: '',
@@ -113,10 +113,10 @@ export default [
 		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490503502/grey_people_web_fpewx9.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
-			twitter: 'null',
-			soundcloud: 'null'
+			instagram: 'www.instagram.com/gp6669',
+			facebook: 'http://goo.gl/6iEWdx',
+			twitter: 'www.twitter.com/Grey_People',
+			soundcloud: 'www.soundcloud.com/grey_people'
 		},
 		bioOne: 'Alex J Michalski is no stranger to the more eloquent side of techno. A master at harnessing the power of his analog gear, Alex’s music has been featured on the likes of Proper Trax, Mystical Disco, Cult Trip, Finale Sessions, CGI Records, Public System Recordings (a split EP including 2 tracks from DJ Spider), and most recently, Valcron Video.',
 		bioTwo: '',
@@ -134,10 +134,10 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490503205/Harrison_BDP_px0nbg.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
+			instagram: 'https://www.instagram.com/harrisonbdp1/',
+			facebook: 'https://www.facebook.com/harrisonbdp/',
 			twitter: 'null',
-			soundcloud: 'null'
+			soundcloud: 'https://soundcloud.com/harrisonbdp'
 		},
 		bioOne: 'Based in Cardiff, Wales, Harrison Webber is known and loved for tracks such as “Decompression” (out on a multi-artist EP on Strcr Records) and “It’s Foggy Outside” (forthcoming on Artesian Sounds), which illustrate Webber’s signature style of low, jabby bass hits, plush chords, and crisp hats. Webber has an exciting year ahead of himself with five EP’s slated for release.',
 		bioTwo: '',
@@ -156,9 +156,9 @@ export default [
 		],
 		social: {
 			instagram: 'null',
-			facebook: 'null',
+			facebook: 'https://www.facebook.com/Interstate-595134607300190/?ref=hl',
 			twitter: 'null',
-			soundcloud: 'null'
+			soundcloud: 'https://soundcloud.com/interstate98'
 		},
 		bioOne: 'Bielfield mother fuckin ledgend. 1997.',
 		bioTwo: '',
@@ -177,9 +177,9 @@ export default [
 		],
 		social: {
 			instagram: 'null',
-			facebook: 'null',
+			facebook: 'https://www.facebook.com/jayalbertmu/',
 			twitter: 'null',
-			soundcloud: 'null'
+			soundcloud: 'https://soundcloud.com/jiovanni-nadal'
 		},
 		bioOne: 'Co-founder of Exotic Dance Records',
 		bioTwo: '',
@@ -198,9 +198,9 @@ export default [
 		],
 		social: {
 			instagram: 'null',
-			facebook: 'null',
-			twitter: 'null',
-			soundcloud: 'null'
+			facebook: 'www.facebook.com/naturalsciencesrecs',
+			twitter: 'www.twitter.com/naturalsciencez',
+			soundcloud: 'www.soundcloud.com/naturalsciences'
 		},
 		bioOne: '“Natural Sciences is a communication tool for emerging mutants operated and run by Alex Hall (Animal) in Manchester, U.K”- a record label, for short. With 12 releases over the past two years, Natural Sciences counts the likes of DJ Seinfeld, DJ Swagger, and Textasy to its roster- encompassing an emerging gritty and emotive sound within Europe’s dance circuit.',
 		bioTwo: '',
@@ -219,9 +219,9 @@ export default [
 		],
 		social: {
 			instagram: 'null',
-			facebook: 'null',
+			facebook: 'www.facebook.com/pantherakrause',
 			twitter: 'null',
-			soundcloud: 'null'
+			soundcloud: 'www.soundcloud.com/panthera-krause'
 		},
 		bioOne: 'Based in Leipzig, Germany, Panthera Krause rooted his artistic endeavours in illustration and design. Noticeably, These artistic sensibilities pour over into his audio production, where sounds oscillate between uplifting chords and winding arpeggiators. His latest releases include: his Stonith EP on Riotvan; Solar System out on Lobster Theremin; and Umami on Uncanny Valley.',
 		bioTwo: '',
@@ -239,10 +239,10 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490505549/Pepe_web_q70ryw.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
-			twitter: 'null',
-			soundcloud: 'null'
+			instagram: 'https://www.instagram.com/pepmanpepe',
+			facebook: 'www.facebook.com/ballerasstapes',
+			twitter: 'www.twitter.com/ballerasstapes',
+			soundcloud: 'www.soundcloud.com/pepmanpepe'
 		},
 		bioOne: 'Brighton based Spanniard Pépe has been featured on the likes of Sprung Records, In Records Paris, and most recently, Renascence.',
 		bioTwo: '',
@@ -260,10 +260,10 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490506250/raar_web_bqjl8l.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
-			twitter: 'null',
-			soundcloud: 'null'
+			instagram: 'www.instagram.com/vital_cornet',
+			facebook: 'www.facebook.com/rawraar',
+			twitter: 'https://twitter.com/VitalCornet',
+			soundcloud: 'www.soundcloud.com/11pmraar'
 		},
 		bioOne: 'While intelligently placing antique vocal samples over contemporary choked-out backings, Paris-based Raar’s music is both intimate and thought provoking, driving the impression that the artist comprises a standout within the contemporary raw techno/house scene. With releases forthcoming on “Who’s Susan”, “Nagual Drift”, “La Chinerie”, “Mint Tea”, and “Piff Records”, Raar is tirelessly solidifying his status.',
 		bioTwo: '',
@@ -282,9 +282,9 @@ export default [
 		],
 		social: {
 			instagram: 'null',
-			facebook: 'null',
+			facebook: 'https://www.facebook.com/royeeeeeer/',
 			twitter: 'null',
-			soundcloud: 'null'
+			soundcloud: 'https://soundcloud.com/royeeeer'
 		},
 		bioOne: 'After completing his education in Montreal, Royer lived in both Chicago and Copenhagen before settling in Paris. His releases on Lobster Theremin and Closer point at a keen sensibility for pairing ambient noises with dancey-beats. The product is a laid-back sound that absolutely lights-up dance-floors. Royer kicked off 2017 with just-released EP entitled “Documented” on Mörk Records, leaving us in high anticipation of what is to come.',
 		bioTwo: '',
