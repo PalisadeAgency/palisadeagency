@@ -307,7 +307,7 @@ export default [
 			twitter: 'https://twitter.com/shallnot_fade',
 			soundcloud: 'https://soundcloud.com/shallnotfade'
 		},
-		bioOne: 'Shall Not Fade is a turn of the century house label based out of the UK. Lost Palms and Mall Grab’s Steel City Dance Discs are sublabels.',
+		bioOne: 'Shall not fade is a vinyl-only imprint based in Bristol that is widely recognized for cultivating and promoting the hottest names in the scene today. Mall Grab helmed the label’s first solo release in 2015. From there, Shall Not Fade rose to prominence, and now boasts 12 releases on it’s main imprint and 8 across its 3 sub-labels (Shall Not Fade White, Steel City Dance Disks, and Lost Palms). With Deejay Astral, Lake Haze, TRP, and LK on its roster amongst other notable producers.',
 		bioTwo: '',
 		agent: 'RYAN OTIS, MAT CONSTANCE',
 		col: 3,
