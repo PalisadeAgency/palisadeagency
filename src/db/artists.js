@@ -281,7 +281,7 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490505130/royer_web_frt4xu.png"
 		],
 		social: {
-			instagram: 'null',
+			instagram: 'www.instagram.com/royeeeeeer',
 			facebook: 'https://www.facebook.com/royeeeeeer/',
 			twitter: 'null',
 			soundcloud: 'https://soundcloud.com/royeeeer'
@@ -302,10 +302,10 @@ export default [
 		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490505741/shall_not_fade_evbwyi.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
-			twitter: 'null',
-			soundcloud: 'null'
+			instagram: 'https://www.instagram.com/shallnotfade/',
+			facebook: 'https://www.facebook.com/shallnotfade?fref=ts',
+			twitter: 'https://twitter.com/shallnot_fade',
+			soundcloud: 'https://soundcloud.com/shallnotfade'
 		},
 		bioOne: 'Shall Not Fade is a turn of the century house label based out of the UK. Lost Palms and Mall Grab’s Steel City Dance Discs are sublabels.',
 		bioTwo: '',
@@ -323,10 +323,10 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490504957/sonderr_ijax8o.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
+			instagram: 'https://www.instagram.com/sonderraus/',
+			facebook: 'https://www.facebook.com/sonderraus',
 			twitter: 'null',
-			soundcloud: 'null'
+			soundcloud: 'https://soundcloud.com/sonderraus'
 		},
 		bioOne: 'As one of the hottest acts to emerge out of Australia in the last year, DJ and production duo Sonderr are ready to take the world by storm. Offering up an incredibly diverse selection of music in both their releases and sets, these Shall Not Fade poster boys are ones to watch in 2017.',
 		bioTwo: '',
@@ -344,10 +344,10 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490504855/szch_j8yoyz.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
-			twitter: 'null',
-			soundcloud: 'null'
+			instagram: 'www.instagram.com/szcheck',
+			facebook: 'www.facebook.com/f.szch',
+			twitter: 'www.twitter.com/szcheck',
+			soundcloud: 'www.soundcloud.com/filipscekic'
 		},
 		bioOne: 'One of the most unique talents to emerge out of Croatia’s recent electronic surge, SZCH finds himself exploring a space between classic house and gritty lo-fi. Along with being 1/3 of the notorious “Low Income $quad”, the Zagreb native has released EPs on Always Human Tapes, LLL, and most recently, Infinite Pleasure.',
 		bioTwo: '',
@@ -365,10 +365,10 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490505190/x-coast_birsnk.png"
 		],
 		social: {
-			instagram: 'null',
-			facebook: 'null',
+			instagram: 'www.instagram.com/roy_fokker',
+			facebook: 'www.facebook.com/xcoastriviera',
 			twitter: 'null',
-			soundcloud: 'null'
+			soundcloud: 'www.soundcloud.com/x-coast1'
 		},
 		bioOne: 'Former Exit Festival organizer, Serbian-born musician X-Coast now creates art out of Bushwick, New York. Coming off of releases on Lobster Theremin’s White-Label and Mall Grab’s Steel City Dance Discs -and propelled by his a smash-single “Mango Bay”- X-Coast’s fanbase and reputation is beginning to reach a critical mass.',
 		bioTwo: '',
