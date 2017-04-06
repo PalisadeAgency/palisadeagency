@@ -181,7 +181,7 @@ export default [
 			twitter: 'null',
 			soundcloud: 'https://soundcloud.com/jiovanni-nadal'
 		},
-		bioOne: 'Co-founder of Exotic Dance Records',
+		bioOne: 'Jiovanni Nadel, who produces under the moniker J. Albert, hails from South Florida and is currently based out of Queens, New York. Along with Person of Interest, Nadel co-founded Exotic Dance records in 2015, which continues to put out fresh and exciting house cuts that have a ‘techno’ attitude. In addition to releasing on his own label, the artist has released work on Lovers Rock, Cult Trip, and Black Opal, with EP’s “Dance Slow”, and “EDR002” serving as stand-outs. The artist’s records make use of rare samples, lo-fi backings, textured beats, and driving soul, which you can find scattered throughout his hit guest mix for the Hessle Audio crew on Rinse FM.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 1,
