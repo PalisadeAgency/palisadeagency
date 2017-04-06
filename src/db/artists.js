@@ -202,7 +202,7 @@ export default [
 			twitter: 'www.twitter.com/naturalsciencez',
 			soundcloud: 'www.soundcloud.com/naturalsciences'
 		},
-		bioOne: '“Natural Sciences is a communication tool for emerging mutants operated and run by Alex Hall (Animal) in Manchester, U.K”- a record label, for short. With 12 releases over the past two years, Natural Sciences counts the likes of DJ Seinfeld, DJ Swagger, and Textasy to its roster- encompassing an emerging gritty and emotive sound within Europe’s dance circuit.',
+		bioOne: 'Formed in Manchester by label-head Alex Hall, Natural Sciences is a label that puts out underground gems ranging from soothing ambient cuts to acid-house belters. With 12 releases over the past two years, Natural Sciences counts the likes of DJ Seinfeld, DJ Swagger, and Textasy to its roster- encompassing a gritty and emotive sound produced by stars of the underground.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
