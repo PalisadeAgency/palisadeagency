@@ -152,7 +152,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490505429/interstate_cmotwd.png"
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1491492688/Interstate_sq0bod.png"
 		],
 		social: {
 			instagram: 'null',
