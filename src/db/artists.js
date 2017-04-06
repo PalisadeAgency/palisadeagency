@@ -356,27 +356,6 @@ export default [
 		region: "GLOBAL"
 	},
    {
-		name: 'Trudge',
-		locale: '(FR)',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490506448/trudge_dnfzfn.png"
-		],
-		social: {
-			instagram: 'null',
-			facebook: 'null',
-			twitter: 'null',
-			soundcloud: 'null'
-		},
-		bioOne: 'Trudge thrives under his mysterious, clandestine persona. The Paris-based producer plays strictly live sets, and combines groove-soaked rhythms, swirled hi-hats, and thick bass-lines to communicate feelings not possible to disclose through words. While generating widespread acclaim with his releases on Axe Traxx, Lost Palms, and Dance Around 88, Trudge has several projects set to release in 2017- as with his mysterious persona, details are still under wraps.',
-		bioTwo: '',
-		agent: 'RYAN OTIS',
-		col: 2,
-		region: "GLOBAL"
-	},
-   {
 		name: 'X-Coast',
 		locale: '(US)',
 		offering: 'DJ',
@@ -394,7 +373,7 @@ export default [
 		bioOne: 'Former Exit Festival organizer, Serbian-born musician X-Coast now creates art out of Bushwick, New York. Coming off of releases on Lobster Theremin’s White-Label and Mall Grab’s Steel City Dance Discs -and propelled by his a smash-single “Mango Bay”- X-Coast’s fanbase and reputation is beginning to reach a critical mass.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 3,
+		col: 2,
 		region: "GLOBAL"
 	},
 ]
