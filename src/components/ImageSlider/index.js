@@ -14,10 +14,10 @@ const ImageSlider = (props) => {
 		autoplay: true,
 		fade: true,
 		autoplaySpeed	: 3000,
-		speed: 0,
 		slidesToShow: 1,
 		easing: 'linear',
-		slidesToScroll: 1
+		slidesToScroll: 1,
+		pauseOnHover: false
 	}
 
 	return (
@@ -25,7 +25,7 @@ const ImageSlider = (props) => {
 			<Slider {...settings}>
 					{
 						images.map((image) => {
-						return (<div key={Math.random()} style={{backgroundImage:`url(${image})`}}
+						return (<div key={image} style={{backgroundImage:`url(${image})`}}
 							 	className='slider__image'>
 								<img style={{
 										display: 'none'

@@ -75,6 +75,14 @@ h1, h2, h3, h4, h5, h6, h7 {
   height: 53px;
   color: #000;
   margin-bottom: var(--heading-marginbottom);
+  margin-right: 0;
+  margin-left:0;
+  padding-right:0;
+  padding-left:0;
+}
+
+.tilted-hacky-fix {
+  transform: translateX(-78%) rotate(-90deg);
 }
 
 :root {

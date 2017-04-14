@@ -3,7 +3,6 @@ import ImageSlider from '../components/ImageSlider'
 import Roster from '../components/Roster'
 import About from '../components/About'
 import Booker from '../components/Booker'
-import logo from '../../public/img/logo.png'
 
 import images from '../db/slideImages'
 import artists from '../db/artists'

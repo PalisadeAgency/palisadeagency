@@ -2,6 +2,7 @@ import React from 'react'
 import facebook from '../../../public/img/icons/facebook.png'
 import instagram from '../../../public/img/icons/instagram.png'
 import twitter from '../../../public/img/icons/twitter.png'
+import soundcloud from '../../../public/img/icons/soundcloud.png'
 
 import './index.css'
 
@@ -26,18 +27,20 @@ const About = (props) => {
 				<div className="block-right">
 					<div className="about--contact--social">
 						<span className="about--contact--social__span">
-							<a href="" className="social-icon">
+							<a href="https://www.instagram.com/palisadeagency/
+" className="social-icon">
 								<img src={instagram} alt="instagram icon"/>
 							</a>
 						</span>
 						<span className="about--contact--social__span">
-							<a href="" className="social-icon">
+							<a href="https://www.facebook.com/palisadeagency/
+" className="social-icon">
 								<img src={facebook} alt="facebook icon"/>
 							</a>
 						</span>
 						<span className="about--contact--social__span">
-							<a href="" className="social-icon">
-								<img src={twitter} alt="twitter icon"/>
+							<a href="https://soundcloud.com/palisadeagency" className="social-icon about-social-icon-twitter">
+								<img src={soundcloud} alt="twitter icon"/>
 							</a>
 						</span>
 					</div>

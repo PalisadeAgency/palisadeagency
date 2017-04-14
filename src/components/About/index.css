@@ -35,7 +35,7 @@
 }
 
 .block-right {
-
+	margin-top: 8px;
 }
 
 .about__p {
@@ -46,10 +46,27 @@
 }
 
 
+.about--contact--social {
+	display: flex;
+	flex-direction: row;
+}
+
 .about--contact--social__span {
 	margin-right: 37.3px;
 }
 
 .about--contact--social__span:last-of-type {
 	margin-right: 172.2px;
+}
+
+
+.about-social-icon-twitter {
+	display: block;
+}
+
+
+.about-social-icon-twitter img {
+	height: 45px !important;
+	margin-top: -2px;
+	transform: rotate(-1deg);
 }

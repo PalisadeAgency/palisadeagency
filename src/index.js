@@ -9,7 +9,9 @@ import Artist from './pages/Artist'
 import './App.css'
 
 render(
-  <Router history={browserHistory}>
+  <Router
+    onUpdate={() => window.scrollTo(0, 0)}
+    history={browserHistory}>
     <Route path="/" component={Home} />
     <Route path="/:artist" component={Artist} />
   </Router>,

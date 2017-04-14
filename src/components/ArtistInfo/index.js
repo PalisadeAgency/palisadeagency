@@ -34,21 +34,29 @@ const ArtistInfo = (props) => {
 
 				<div className="artist-social">
 					{artist.social.instagram ?
-						<a href={artist.social.instagram} className="social-icon">
+						<a href={`https://${artist.social.instagram}`}
+							target="_blank"
+							className="social-icon">
 							<img src={insta} alt="instagram icon"/>
 						</a>: null}
 
 					{artist.social.facebook ?
-						<a href={artist.social.facebook} className="social-icon">
+						<a href={`https://${artist.social.facebook}`}
+							target="_blank"
+							className="social-icon">
 							<img src={facebook} alt="instagram icon"/>
 						</a>: null}
 
 					{artist.social.twitter ?
-						<a href={artist.social.twitter} className="social-icon">
+						<a href={`https://${artist.social.twitter}`}
+							target="_blank"
+							className="social-icon">
 							<img src={twitter} alt="instagram icon"/>
 						</a>: null}
 					{artist.social.soundcloud ?
-						<a href={artist.social.soundcloud} className="social-icon social-icon-soundcloud">
+						<a href={`https://${artist.social.soundcloud}`}
+							target="_blank"
+							className="social-icon social-icon-soundcloud">
 							<img src={soundcloud} alt="soundcloud icon"/>
 						</a>: null}
 				</div>
