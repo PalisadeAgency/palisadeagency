@@ -283,7 +283,7 @@ export default [
 		social: {
 			instagram: 'www.instagram.com/vital_cornet',
 			facebook: 'www.facebook.com/rawraar',
-			twitter: 'https://twitter.com/VitalCornet',
+			twitter: 'www.twitter.com/VitalCornet',
 			soundcloud: 'www.soundcloud.com/11pmraar'
 		},
 		bioOne: 'While intelligently placing antique vocal samples over contemporary choked-out backings, Paris-based Raar’s music is both intimate and thought provoking, driving the impression that the artist comprises a standout within the contemporary raw techno/house scene. With releases forthcoming on “Who’s Susan”, “Nagual Drift”, “La Chinerie”, “Mint Tea”, and “Piff Records”, Raar is tirelessly solidifying his status.',
@@ -303,9 +303,9 @@ export default [
 		],
 		social: {
 			instagram: 'www.instagram.com/royeeeeeer',
-			facebook: 'https://www.facebook.com/royeeeeeer/',
-			twitter: 'null',
-			soundcloud: 'https://soundcloud.com/royeeeer'
+			facebook: 'www.facebook.com/royeeeeeer/',
+			twitter: '',
+			soundcloud: 'www.soundcloud.com/royeeeer'
 		},
 		bioOne: 'After completing his education in Montreal, Royer lived in both Chicago and Copenhagen before settling in Paris. His releases on Lobster Theremin and Closer point at a keen sensibility for pairing ambient noises with dancey-beats. The product is a laid-back sound that absolutely lights-up dance-floors. Royer kicked off 2017 with just-released EP entitled “Documented” on Mörk Records, leaving us in high anticipation of what is to come.',
 		bioTwo: '',
@@ -323,10 +323,10 @@ export default [
 		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490505741/shall_not_fade_evbwyi.png"
 		],
 		social: {
-			instagram: 'https://www.instagram.com/shallnotfade/',
-			facebook: 'https://www.facebook.com/shallnotfade?fref=ts',
-			twitter: 'https://twitter.com/shallnot_fade',
-			soundcloud: 'https://soundcloud.com/shallnotfade'
+			instagram: 'www.instagram.com/shallnotfade/',
+			facebook: 'www.facebook.com/shallnotfade?fref=ts',
+			twitter: 'www.twitter.com/shallnot_fade',
+			soundcloud: 'www.soundcloud.com/shallnotfade'
 		},
 		bioOne: 'Shall not fade is a vinyl-only imprint based in Bristol that is widely recognized for cultivating and promoting the hottest names in the scene today. Mall Grab helmed the label’s first solo release in 2015. From there, Shall Not Fade rose to prominence, and now boasts 12 releases on it’s main imprint and 8 across its 3 sub-labels (Shall Not Fade White, Steel City Dance Disks, and Lost Palms). With Deejay Astral, Lake Haze, TRP, and LK on its roster amongst other notable producers.',
 		bioTwo: '',
@@ -344,10 +344,10 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490504957/sonderr_ijax8o.png"
 		],
 		social: {
-			instagram: 'https://www.instagram.com/sonderraus/',
-			facebook: 'https://www.facebook.com/sonderraus',
-			twitter: 'null',
-			soundcloud: 'https://soundcloud.com/sonderraus'
+			instagram: 'www.instagram.com/sonderraus/',
+			facebook: 'www.facebook.com/sonderraus',
+			twitter: '',
+			soundcloud: 'www.soundcloud.com/sonderraus'
 		},
 		bioOne: 'As one of the hottest acts to emerge out of Australia in the last year, DJ and production duo Sonderr are ready to take the world by storm. Offering up an incredibly diverse selection of music in both their releases and sets, these Shall Not Fade poster boys are ones to watch in 2017.',
 		bioTwo: '',
@@ -388,7 +388,7 @@ export default [
 		social: {
 			instagram: 'www.instagram.com/roy_fokker',
 			facebook: 'www.facebook.com/xcoastriviera',
-			twitter: 'null',
+			twitter: '',
 			soundcloud: 'www.soundcloud.com/x-coast1'
 		},
 		bioOne: 'Former Exit Festival organizer, Serbian-born musician X-Coast now creates art out of Bushwick, New York. Coming off of releases on Lobster Theremin’s White-Label and Mall Grab’s Steel City Dance Discs -and propelled by his a smash-single “Mango Bay”- X-Coast’s fanbase and reputation is beginning to reach a critical mass.',
