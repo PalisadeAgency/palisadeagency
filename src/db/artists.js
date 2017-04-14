@@ -61,6 +61,27 @@ export default [
 		col: 3,
 		region: "GLOBAL"
 	},
+  	 {
+		name: 'DJ Octopus',
+		locale: '(IT)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490504493/boring_web_pbaaph.png"
+		],
+		social: {
+			instagram: 'https://www.instagram.com/internet.boring/',
+			facebook: 'www.facebook.com/djboring90',
+			twitter: 'www.twitter.com/DJ_BORING',
+			soundcloud: 'www.soundcloud.com/djboring1990'
+		},
+		bioOne: '',
+		bioTwo: '',
+		agent: 'Mat Constance',
+		col: 4,
+		region: "GLOBAL"
+	},
 	 {
 		name: 'DJ Seinfeld',
 		locale: '(SE)',
@@ -79,7 +100,7 @@ export default [
 		bioOne: 'Classically schooled in music growing up, Armand Jakkobson embraces feeling in his artistic production. The Barcelona-based Swede elegantly captures human emotion and packages it into tracks that are perfect for both the bedroom and the dance-floor, while referencing influences ranging from L.I.E.S Records to early Detroit House. In 2017, we can look forward to Jakkobson’s releases on Ectotherm, Lobster Fury, Lobster Theremin, and Natural Sciences.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 4,
+		col: 1,
 		region: "GLOBAL"
 	},
 	 {
@@ -100,7 +121,7 @@ export default [
 		bioOne: '18-year-old German producer DJ Swagger keeps a low-profile, while bringing together acid synths, breakbeats, cheeky samples, and 909 drum hits into melodic dance-floor-ready productions perfect for youth-driven DIY parties. His previous work put out by E-Beams and Natural Sciences set a high standard for what’s to come from the mysterious DJ Swagger.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 1,
+		col: 2,
 		region: "GLOBAL"
 	},
 	 {
@@ -121,7 +142,7 @@ export default [
 		bioOne: 'Alex J Michalski is no stranger to the more eloquent side of techno. A master at harnessing the power of his analog gear, Alex’s music has been featured on the likes of Proper Trax, Mystical Disco, Cult Trip, Finale Sessions, CGI Records, Public System Recordings (a split EP including 2 tracks from DJ Spider), and most recently, Valcron Video.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 3,
 		region: "GLOBAL"
 	},
    {
@@ -142,7 +163,7 @@ export default [
 		bioOne: 'Based in Cardiff, Wales, Harrison Webber is known and loved for tracks such as “Decompression” (out on a multi-artist EP on Strcr Records) and “It’s Foggy Outside” (forthcoming on Artesian Sounds), which illustrate Webber’s signature style of low, jabby bass hits, plush chords, and crisp hats. Webber has an exciting year ahead of himself with five EP’s slated for release.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 3,
+		col: 4,
 		region: "GLOBAL"
 	},
    {
@@ -163,7 +184,7 @@ export default [
 		bioOne: 'Hailing from Bielefeld, Germany, Interstate is a fresh-faced DJ and producer making waves in the online dance community. His non-stop and blistering soundcloud presence is backed up by his most popular work “Vanice Beach”, released on Waxtefacts 4-track compilation in 2016. As in “Vanice Beach”, Interstate’s productions typically feature playful 4/4 beats, faded vocal samples, and clubby synth pads.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 4,
+		col: 1,
 		region: "GLOBAL"
 	},
    {
@@ -184,7 +205,7 @@ export default [
 		bioOne: 'Jiovanni Nadel, who produces under the moniker J. Albert, hails from South Florida and is currently based out of Queens, New York. Along with Person of Interest, Nadel co-founded Exotic Dance records in 2015, which continues to put out fresh and exciting house cuts that have a ‘techno’ attitude. In addition to releasing on his own label, the artist has released work on Lovers Rock, Cult Trip, and Black Opal, with EP’s “Dance Slow”, and “EDR002” serving as stand-outs.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 1,
+		col: 2,
 		region: "North America"
 	},
   {
@@ -205,7 +226,7 @@ export default [
 		bioOne: 'Formed in Manchester by label-head Alex Hall, Natural Sciences is a label that puts out underground gems ranging from soothing ambient cuts to acid-house belters. With 12 releases over the past two years, Natural Sciences counts the likes of DJ Seinfeld, DJ Swagger, and Textasy to its roster- encompassing a gritty and emotive sound produced by stars of the underground.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 3,
 		region: "GLOBAL"
  },
    {
@@ -226,7 +247,7 @@ export default [
 		bioOne: 'Based in Leipzig, Germany, Panthera Krause rooted his artistic endeavours in illustration and design. Noticeably, These artistic sensibilities pour over into his audio production, where sounds oscillate between uplifting chords and winding arpeggiators. His latest releases include: his Stonith EP on Riotvan; Solar System out on Lobster Theremin; and Umami on Uncanny Valley.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 3,
+		col: 4,
 		region: "GLOBAL"
 	},
   {
@@ -247,7 +268,7 @@ export default [
 		bioOne: 'Based out of Brighton, Pépe references several influences including: 80’s Japanese music, jazz, and ambient as genres; and YMO, Kyle Hall, and Kerri Chandler as musicians. He’s put out work on Sprung Records, Renaissance, as well as In Records Paris, leaving his faithful following hungry for more. A recent standout of Pépe’s is a gorgeous and colourful house track entitled “Linda’s Retreat” that’s awaiting official release.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 4,
+		col: 1,
 		region: "GLOBAL"
 	},
    {
@@ -268,7 +289,7 @@ export default [
 		bioOne: 'While intelligently placing antique vocal samples over contemporary choked-out backings, Paris-based Raar’s music is both intimate and thought provoking, driving the impression that the artist comprises a standout within the contemporary raw techno/house scene. With releases forthcoming on “Who’s Susan”, “Nagual Drift”, “La Chinerie”, “Mint Tea”, and “Piff Records”, Raar is tirelessly solidifying his status.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 1,
+		col: 2,
 		region: "GLOBAL"
 	},
    {
@@ -289,7 +310,7 @@ export default [
 		bioOne: 'After completing his education in Montreal, Royer lived in both Chicago and Copenhagen before settling in Paris. His releases on Lobster Theremin and Closer point at a keen sensibility for pairing ambient noises with dancey-beats. The product is a laid-back sound that absolutely lights-up dance-floors. Royer kicked off 2017 with just-released EP entitled “Documented” on Mörk Records, leaving us in high anticipation of what is to come.',
 		bioTwo: '',
 		agent: 'Mat Constance',
-		col: 2,
+		col: 3,
 		region: "GLOBAL"
 	},
   {
@@ -310,7 +331,7 @@ export default [
 		bioOne: 'Shall not fade is a vinyl-only imprint based in Bristol that is widely recognized for cultivating and promoting the hottest names in the scene today. Mall Grab helmed the label’s first solo release in 2015. From there, Shall Not Fade rose to prominence, and now boasts 12 releases on it’s main imprint and 8 across its 3 sub-labels (Shall Not Fade White, Steel City Dance Disks, and Lost Palms). With Deejay Astral, Lake Haze, TRP, and LK on its roster amongst other notable producers.',
 		bioTwo: '',
 		agent: 'RYAN OTIS, MAT CONSTANCE',
-		col: 3,
+		col: 4,
 		region: "GLOBAL"
   },
    {
@@ -331,7 +352,7 @@ export default [
 		bioOne: 'As one of the hottest acts to emerge out of Australia in the last year, DJ and production duo Sonderr are ready to take the world by storm. Offering up an incredibly diverse selection of music in both their releases and sets, these Shall Not Fade poster boys are ones to watch in 2017.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 4,
+		col: 1,
 		region: "GLOBAL"
 	},
    {
@@ -352,7 +373,7 @@ export default [
 		bioOne: 'One of the most unique talents to emerge out of Croatia’s recent electronic surge, SZCH finds himself exploring a space between classic house and gritty lo-fi. Along with being 1/3 of the notorious “Low Income $quad”, the Zagreb native has released EPs on Always Human Tapes, LLL, and most recently, Infinite Pleasure.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 1,
+		col: 2,
 		region: "GLOBAL"
 	},
    {
@@ -373,7 +394,7 @@ export default [
 		bioOne: 'Former Exit Festival organizer, Serbian-born musician X-Coast now creates art out of Bushwick, New York. Coming off of releases on Lobster Theremin’s White-Label and Mall Grab’s Steel City Dance Discs -and propelled by his a smash-single “Mango Bay”- X-Coast’s fanbase and reputation is beginning to reach a critical mass.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 3,
 		region: "GLOBAL"
 	},
 ]
