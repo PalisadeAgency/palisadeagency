@@ -176,9 +176,9 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1491492688/Interstate_sq0bod.png"
 		],
 		social: {
-			instagram: 'null',
+			instagram: '',
 			facebook: 'https://www.facebook.com/Interstate-595134607300190/?ref=hl',
-			twitter: 'null',
+			twitter: '',
 			soundcloud: 'https://soundcloud.com/interstate98'
 		},
 		bioOne: 'Hailing from Bielefeld, Germany, Interstate is a fresh-faced DJ and producer making waves in the online dance community. His non-stop and blistering soundcloud presence is backed up by his most popular work “Vanice Beach”, released on Waxtefacts 4-track compilation in 2016. As in “Vanice Beach”, Interstate’s productions typically feature playful 4/4 beats, faded vocal samples, and clubby synth pads.',
