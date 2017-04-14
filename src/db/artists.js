@@ -71,10 +71,10 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492187167/octopus_x9fsoq.png"
 		],
 		social: {
-			instagram: 'https://www.instagram.com/internet.boring/',
-			facebook: 'www.facebook.com/djboring90',
-			twitter: 'www.twitter.com/DJ_BORING',
-			soundcloud: 'www.soundcloud.com/djboring1990'
+			instagram: '',
+			facebook: 'www.www.facebook.com/deejayoctopus/',
+			twitter: '',
+			soundcloud: 'www.soundcloud.com/djoctopus-2',
 		},
 		bioOne: '',
 		bioTwo: '',
