@@ -218,7 +218,7 @@ export default [
 		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490506028/Natural_Sciences_wu5o2p.png"
 		],
 		social: {
-			instagram: 'null',
+			instagram: '',
 			facebook: 'www.facebook.com/naturalsciencesrecs',
 			twitter: 'www.twitter.com/naturalsciencez',
 			soundcloud: 'www.soundcloud.com/naturalsciences'
