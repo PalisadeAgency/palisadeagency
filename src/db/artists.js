@@ -197,9 +197,9 @@ export default [
 		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457995/j._albert_web_vtcbfq.png"
 		],
 		social: {
-			instagram: 'null',
+			instagram: '',
 			facebook: 'https://www.facebook.com/jayalbertmu/',
-			twitter: 'null',
+			twitter: '',
 			soundcloud: 'https://soundcloud.com/jiovanni-nadal'
 		},
 		bioOne: 'Jiovanni Nadel, who produces under the moniker J. Albert, hails from South Florida and is currently based out of Queens, New York. Along with Person of Interest, Nadel co-founded Exotic Dance records in 2015, which continues to put out fresh and exciting house cuts that have a ‘techno’ attitude. In addition to releasing on his own label, the artist has released work on Lovers Rock, Cult Trip, and Black Opal, with EP’s “Dance Slow”, and “EDR002” serving as stand-outs.',
