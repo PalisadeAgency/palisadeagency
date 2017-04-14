@@ -76,7 +76,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/djoctopus-2',
 		},
-		bioOne: '',
+		bioOne: 'The king of the ocean.',
 		bioTwo: '',
 		agent: 'Mat Constance',
 		col: 4,
