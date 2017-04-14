@@ -62,7 +62,7 @@ export default [
 		region: "GLOBAL"
 	},
   	 {
-		name: 'DJ Octopus',
+		name: 'DJ Octopus 🐙',
 		locale: '(IT)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
