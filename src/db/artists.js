@@ -13,7 +13,7 @@ export default [
 			twitter: 'www.twitter.com/MichaelBaltra',
 			soundcloud: 'www.soundcloud.com/Baltra'
 		},
-		bioOne: 'Born and raised in Northeast Philadelphia, Michael Baltra relocated to New York City over a decade ago, and has been drawing on the hustle and bustle of New York life to inform and shape his creative process ever since. Baltra’s most noted releases include “Fade Away”- out on a 4-track EP for Craigie Knows-  & “Tears Drop” on Hokkaido Dance Club. Both tracks purvey a musical product that is dark, melodic, moody, and soulful.
+		bioOne: 'Born and raised in Northeast Philadelphia, Michael Baltra relocated to New York City over a decade ago, and has been drawing on the hustle and bustle of New York life to inform and shape his creative process ever since. Baltra’s most noted releases include “Fade Away”- out on a 4-track EP for Craigie Knows-  & “Tears Drop” on Hokkaido Dance Club. Both tracks purvey a musical product that is dark, melodic, moody, and soulful.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 1,
