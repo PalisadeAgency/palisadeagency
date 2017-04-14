@@ -239,9 +239,9 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490503341/Panthera_Web_mv1han.png"
 		],
 		social: {
-			instagram: 'null',
+			instagram: '',
 			facebook: 'www.facebook.com/pantherakrause',
-			twitter: 'null',
+			twitter: '',
 			soundcloud: 'www.soundcloud.com/panthera-krause'
 		},
 		bioOne: 'Based in Leipzig, Germany, Panthera Krause rooted his artistic endeavours in illustration and design. Noticeably, These artistic sensibilities pour over into his audio production, where sounds oscillate between uplifting chords and winding arpeggiators. His latest releases include: his Stonith EP on Riotvan; Solar System out on Lobster Theremin; and Umami on Uncanny Valley.',
