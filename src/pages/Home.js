@@ -12,9 +12,6 @@ const Home = (props) => {
 	return (
 		<div className='App Home'>
 			<div className="width-constraint">
-				<div className='logo'>
-					<img src={logo} alt="Logo"/>
-				</div>
 				<ImageSlider images={images} />
 				<Roster artists={artists}/>
 				<Booker />
