@@ -1,4 +1,3 @@
 export default [
-	'http://res.cloudinary.com/drh25z8fo/image/upload/v1492184873/season_1_lopof6.png',
- 'http://res.cloudinary.com/drh25z8fo/image/upload/v1492185041/Palisade_front_web_page_xvsrxo.png',
+	'http://res.cloudinary.com/drh25z8fo/image/upload/v1492185795/Artboard_1_300x_vzwc3j.png',
 ]
