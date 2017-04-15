@@ -263,7 +263,7 @@ export default [
 		social: {
 			instagram: 'www.instagram.com/pepmanpepe',
 			facebook: 'www.facebook.com/pepmanpepe',
-			twitter: 'www.twitter.com/ballerasstapes',
+			twitter: '',
 			soundcloud: 'www.soundcloud.com/pepmanpepe'
 		},
 		bioOne: 'Based out of Brighton, Pépe references several influences including: 80’s Japanese music, jazz, and ambient as genres; and YMO, Kyle Hall, and Kerri Chandler as musicians. He’s put out work on Sprung Records, Renaissance, as well as In Records Paris, leaving his faithful following hungry for more. A recent standout of Pépe’s is a gorgeous and colourful house track entitled “Linda’s Retreat” that’s awaiting official release.',
