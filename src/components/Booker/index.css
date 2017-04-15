@@ -1,80 +1,74 @@
-
 .bookings {
-  position: relative;
-  display: flex;
-  border: solid 1px #979797;
-  margin-top: 80px;
-  margin-right: 134px;
-	margin-left: 134px;
+    position: relative;
+    display: flex;
+    border: solid 1px #979797;
+    margin-top: 80px;
+    margin-right: 134px;
+    margin-left: 134px;
 }
 
 .bookings__h2 {
-  margin-top: 22px;
+    margin-top: 22px;
 }
 
 .booker {
-	position: relative;
-  height: 273px;
-  width: 100%;
-  padding-top: 38px;
-  padding-left: 77px;
-  padding-bottom: 38px;
-  display: flex;
-  justify-content: space-between;
+    position: relative;
+    height: 273px;
+    width: 100%;
+    padding-top: 38px;
+    padding-left: 77px;
+    padding-bottom: 38px;
+    display: flex;
+    justify-content: space-between;
 }
 
 .booker a {
-  color: #000;
-  display: block;
+    color: #000;
+    display: block;
 }
 
-.bookers-left {
+.bookers-left {}
 
-}
-
-.bookers-right {
-
-}
+.bookers-right {}
 
 .bookers-right .booker--name {
-  padding-right: 170px;
+    padding-right: 170px;
 }
 
 .booker .vert-bar {
-  margin-left: 110px;
+    margin-left: 81px;
 }
 
 .vert-bar {
-  width: 2px;
-  height: 197px;
-  object-fit:
-  contain;
-  border: solid 1px #979797;
+    width: 2px;
+    height: 197px;
+    object-fit: contain;
+    border: solid 1px #979797;
 }
 
 .booker--name {
-  display: flex;
-  align-items: baseline;
+    display: flex;
+    align-items: baseline;
 }
 
 .booker--offering {
-  font-size: 15px;
-  height: 18px;
-  margin-left: 10px;
+    font-size: 15px;
+    height: 18px;
+    margin-left: 10px;
 }
 
 .booker--email {
-  height: 18px;
-	font-size: 15px;
-	color: black;
-  padding-bottom: 55px;
+    height: 18px;
+    font-size: 15px;
+    color: black;
+    padding-bottom: 55px;
 }
 
 .booker--email a {
-	color: black;
+    color: black;
 }
 
 .booker--large {
-  font-size: 45px;
-  height: 54px;
+    font-size: 45px;
+    height: 54px;
 }

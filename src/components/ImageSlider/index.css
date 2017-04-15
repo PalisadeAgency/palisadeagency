@@ -1,23 +1,27 @@
 .Home .slider {
-	height: 468px;
-	position: relative;
-	margin-top: 71px;
+    height: 468px;
+    position: relative;
+    max-width: 1170px;
+    margin: 61px auto;
 }
 
-.slick-slider, .slick-list, .slick-track {
-	height: 100%;
+.slick-slider,
+.slick-list,
+.slick-track {
+    height: 100%;
 }
+
 .slider__image {
-	width: 100%;
-	background-size: contain;
-	background-position: center;
-	background-repeat: no-repeat;
+    width: 100%;
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
 }
 
 .logo {
-	position: absolute;
-	width: 246px;
-	height: 64px;
-	z-index: 10;
-	margin-left: 134px;
+    position: absolute;
+    width: 246px;
+    height: 64px;
+    z-index: 10;
+    margin-left: 134px;
 }
