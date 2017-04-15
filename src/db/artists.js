@@ -384,7 +384,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492287085/Website_artist_page_hn6xbp.png"
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492287409/Website_artist_page_zf0fty.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/roy_fokker',
