@@ -1,76 +1,81 @@
 .artist-content {
-	margin-top: 71px;
-	display: flex;
-	margin-left: 134px;
+    margin-top: 71px;
+    display: flex;
+    margin-left: 134px;
 }
 
 .artist-info {
-	width: 100%;
-	margin-left: 45px;
+    width: 100%;
+    margin-left: 45px;
 }
 
 .artist-info .artist-headline {
-	display: flex;
+    display: flex;
 }
 
-
 .artist-info .artist-name {
-	font-size: 67px;
+    font-size: 67px;
+    overflow: hidden;
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    max-width: 425px;
 }
 
 .artist-info .artist-locale {
-	font-size: 67px;
+    font-size: 67px;
 }
 
 .artist-info .artist-offering {
-	font-size: 20px;
+    font-size: 20px;
 }
 
 .artist-social {
-	display: flex;
-	margin-top: 22px;
+    display: flex;
+    margin-top: 22px;
 }
 
 .artist-social a {
-	display: block;
-	marign-right: 0.5px;
+    display: block;
+    marign-right: 0.5px;
 }
 
 .artist-social a img {
-	height: 22.1px;
+    height: 22.1px;
 }
+
 .artist-social .social-icon-soundcloud img {
-	height: 30px;
-	transform: rotate(-1deg)
+    height: 30px;
+    transform: rotate(-1deg)
 }
 
 .artist-social .social-icon {
-	margin-right: 12.1px;
+    margin-right: 12.1px;
 }
 
 .artist-bio {
-	font-size: 20px;
-	margin-bottom: 21px;
-	margin-right: 134px;
+    font-size: 20px;
+    margin-bottom: 21px;
+    margin-right: 134px;
 }
 
-.artist-agent, .artist-region {
-	font-size: 20px;
+.artist-agent,
+.artist-region {
+    font-size: 20px;
 }
 
 .artist-region {
-	color: #c30016;
+    color: #c30016;
 }
 
 .artist-image .slider {
-	width: 748px;
-	height: 436px;
-	margin-top: 20px;
+    width: 748px;
+    height: 436px;
+    margin-top: 20px;
 }
 
 .artist-image .slider__image {
-	width: 100%;
-	background-size: cover;
-	background-position: center;
-	background-repeat: no-repeat;
+    width: 100%;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
 }
