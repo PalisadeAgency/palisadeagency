@@ -262,7 +262,7 @@ export default [
 		],
 		social: {
 			instagram: 'www.instagram.com/pepmanpepe',
-			facebook: 'www.facebook.com/ballerasstapes',
+			facebook: 'www.facebook.com/pepmanpepe',
 			twitter: 'www.twitter.com/ballerasstapes',
 			soundcloud: 'www.soundcloud.com/pepmanpepe'
 		},
