@@ -303,8 +303,8 @@ export default [
 			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490505130/royer_web_frt4xu.png"
 		],
 		social: {
-			instagram: 'www.instagram.com/royeeeeeer',
-			facebook: 'www.facebook.com/royeeeeeer/',
+			instagram: 'www.instagram.com/royeeeer/',
+			facebook: 'www.facebook.com/royeeeeer/',
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/royeeeer'
 		},
