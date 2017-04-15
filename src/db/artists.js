@@ -115,9 +115,9 @@ export default [
 		],
 		social: {
 			instagram: '',
-			facebook: 'https://www.facebook.com/therealdjswagger',
+			facebook: 'www.facebook.com/therealdjswagger',
 			twitter: '',
-			soundcloud: 'https://soundcloud.com/djswaggerxxx'
+			soundcloud: 'www.soundcloud.com/djswaggerxxx'
 		},
 		bioOne: '18-year-old German producer DJ Swagger keeps a low-profile, while bringing together acid synths, breakbeats, cheeky samples, and 909 drum hits into melodic dance-floor-ready productions perfect for youth-driven DIY parties. His previous work put out by E-Beams and Natural Sciences set a high standard for what’s to come from the mysterious DJ Swagger.',
 		bioTwo: '',
@@ -136,7 +136,7 @@ export default [
 		],
 		social: {
 			instagram: 'www.instagram.com/gp6669',
-			facebook: 'http://goo.gl/6iEWdx',
+			facebook: 'www.facebook.com/Grey-People-117420154952537/',
 			twitter: 'www.twitter.com/Grey_People',
 			soundcloud: 'www.soundcloud.com/grey_people'
 		},
