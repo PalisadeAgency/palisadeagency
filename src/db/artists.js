@@ -304,7 +304,7 @@ export default [
 		],
 		social: {
 			instagram: 'www.instagram.com/royeeeer/',
-			facebook: 'www.facebook.com/royeeeeer/',
+			facebook: 'www.facebook.com/royeeeeeer/',
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/royeeeer'
 		},
