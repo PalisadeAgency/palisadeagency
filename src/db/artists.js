@@ -51,7 +51,7 @@ export default [
         "http://res.cloudinary.com/drh25z8fo/image/upload/v1492201664/dani_lavicii_kqnjh0.png",
 		],
 		social: {
-			instagram: 'https://www.instagram.com/internet.boring/',
+			instagram: 'www.instagram.com/internet.boring/',
 			facebook: 'www.facebook.com/djboring90',
 			twitter: 'www.twitter.com/DJ_BORING',
 			soundcloud: 'www.soundcloud.com/djboring1990'
