@@ -8,7 +8,7 @@ export default [
 		images: [		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492234534/basltrassdsd_mlkjzm.png"
 		],
 		social: {
-			instagram: ' www.instagram.com/Baltra',
+			instagram: 'www.instagram.com/Baltra',
 			facebook: 'www.facebook.com/BaltraMusic',
 			twitter: 'www.twitter.com/MichaelBaltra',
 			soundcloud: 'www.soundcloud.com/Baltra'
