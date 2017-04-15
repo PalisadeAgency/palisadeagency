@@ -282,9 +282,9 @@ export default [
 		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492192250/fjasldfkjasdflkasjfdlaskjf_rj77sz.png"
 		],
 		social: {
-			instagram: 'www.instagram.com/vital_cornet',
+			instagram: 'www.instagram.com/raar_v',
 			facebook: 'www.facebook.com/rawraar',
-			twitter: 'www.twitter.com/VitalCornet',
+			twitter: '',
 			soundcloud: 'www.soundcloud.com/11pmraar'
 		},
 		bioOne: 'While intelligently placing antique vocal samples over contemporary choked-out backings, Paris-based Raar’s music is both intimate and thought provoking, driving the impression that the artist comprises a standout within the contemporary raw techno/house scene. With releases forthcoming on “Who’s Susan”, “Nagual Drift”, “La Chinerie”, “Mint Tea”, and “Piff Records”, Raar is tirelessly solidifying his status.',
