@@ -153,7 +153,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1490503205/Harrison_BDP_px0nbg.png"
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492288458/harrison_gf6op9.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/harrisonbdp1/',
@@ -342,7 +342,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492287789/sonderrrrsdf_ijnuvv.png"
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492235649/sonderrr_hgmwis.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/sonderraus/',
