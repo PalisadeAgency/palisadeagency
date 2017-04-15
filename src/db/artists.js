@@ -77,7 +77,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/djoctopus-2',
 		},
-		bioOne: 'Vinyl-lover, self-confessed 90’s MTV addict, and one-half of Die Roh, DJ Octopus is part of a handful of producers/DJs based in Venice who navigate the boundaries of techno and house music. Octopus’ releases on Hot Haus Recordings, Metal Position Records, and Shall Not Fade all demonstrate a signature sound that features distorted percussions, grainy samples, thick bass-lines, and stout chords.His DJ sets evoke similar tones; a party with DJ Octopus on the dials is a raw, frantic experience that is not to be missed.',
+		bioOne: 'Vinyl-lover, self-confessed 90’s MTV addict, and one-half of Die Roh, DJ Octopus is part of a handful of producers/DJs based in Venice who navigate the boundaries of techno and house music. Octopus’ releases on Hot Haus Recordings, Metal Position Records, and Shall Not Fade all demonstrate a signature sound that features distorted percussions, grainy samples, thick bass-lines, and stout chords. His DJ sets evoke similar tones; a party with DJ Octopus on the dials is a raw, frantic experience that is not to be missed.',
 		bioTwo: '',
 		agent: 'Mat Constance',
 		col: 4,
