@@ -73,7 +73,7 @@ export default [
 		],
 		social: {
 			instagram: '',
-			facebook: 'www.www.facebook.com/deejayoctopus/',
+			facebook: 'www.facebook.com/deejayoctopus/',
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/djoctopus-2',
 		},
