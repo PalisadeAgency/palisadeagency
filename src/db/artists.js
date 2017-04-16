@@ -287,7 +287,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/11pmraar'
 		},
-		bioOne: 'Raär intelligently places antique vocal samples over more contemporary backings, which makes his musical product both nostalgic and forward thinking. Simply put, the Parisian comprises a standout within the contemporary raw techno/house scene. While riding the success off of his releases on “Raw Culture” and “Dream Raw Recordings”, Raär’s forthcoming work on “Who’s Susan”, “Nagual Drift”, “La Chinerie”, “Mint Tea”, and “Piff Records” is leaving fans and followers alike in deep anticipation of what is to come.”',
+		bioOne: '',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
