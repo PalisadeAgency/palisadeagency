@@ -119,7 +119,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/djswaggerxxx'
 		},
-		bioOne: '18-year-old German producer DJ Swagger keeps a low-profile, while bringing together acid synths, breakbeats, cheeky samples, and 909 drum hits into melodic dance-floor-ready productions perfect for youth-driven DIY parties. His previous work put out by E-Beams and Natural Sciences set a high standard for what’s to come from the mysterious DJ Swagger.',
+		bioOne: '18-year-old German producer DJ Swagger is veiled in mystery. Swagger's notorious heavily hip hop sampled, breakbeat-driven, 909 induced dance-floor-ready productions have garnered him high praise from the house community. His previous work put out by E-Beams and Natural Sciences set a high standard for what’s to come from the rather elusive artist.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
