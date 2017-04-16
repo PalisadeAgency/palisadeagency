@@ -119,7 +119,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/djswaggerxxx'
 		},
-		bioOne: '18-year-old German producer DJ Swagger is veiled in mystery. Swagger"s notorious heavily hip hop sampled, breakbeat-driven, 909 induced dance-floor-ready productions have garnered him high praise from the house community. His previous work put out by E-Beams and Natural Sciences set a high standard for what’s to come from the rather elusive artist.',
+		bioOne: '18-year-old German producer DJ Swagger is veiled in mystery. Swagger"s notorious hip hop sampled, breakbeat-driven, 909 induced dance-floor-ready productions have garnered him high praise from the house community. His previous work put out by E-Beams and Natural Sciences set a high standard for what’s to come from the rather elusive artist.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
