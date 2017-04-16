@@ -119,7 +119,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/djswaggerxxx'
 		},
-		bioOne: '18-year-old German producer DJ Swagger is veiled in mystery. Swagger s notorious heavily hip hop sampled, breakbeat-driven, 909 induced dance-floor-ready productions have garnered him high praise from the house community. His previous work put out by E-Beams and Natural Sciences set a high standard for what’s to come from the rather elusive artist.',
+		bioOne: '18-year-old German producer DJ Swagger is veiled in mystery. Swagger"s notorious heavily hip hop sampled, breakbeat-driven, 909 induced dance-floor-ready productions have garnered him high praise from the house community. His previous work put out by E-Beams and Natural Sciences set a high standard for what’s to come from the rather elusive artist.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
@@ -287,7 +287,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/11pmraar'
 		},
-		bioOne: 'While intelligently placing antique vocal samples over contemporary choked-out backings, Paris-based Raar’s music is both intimate and thought provoking, driving the impression that the artist comprises a standout within the contemporary raw techno/house scene. With releases forthcoming on “Who’s Susan”, “Nagual Drift”, “La Chinerie”, “Mint Tea”, and “Piff Records”, Raar is tirelessly solidifying his status.',
+		bioOne: 'Raär intelligently places antique vocal samples over more contemporary backings, which makes his musical product both nostalgic and forward thinking. Simply put, the Parisian comprises a standout within the contemporary raw techno/house scene. While riding the success off of his releases on “Raw Culture” and “Dream Raw Recordings”, Raär’s forthcoming work on “Who’s Susan”, “Nagual Drift”, “La Chinerie”, “Mint Tea”, and “Piff Records” is leaving fans and followers alike in deep anticipation of what is to come.”',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
