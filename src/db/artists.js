@@ -161,7 +161,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/harrisonbdp'
 		},
-		bioOne: 'Based out of Cardiff, Wales, Harrison BDP is known and loved for his utilization of low, jabby bass hits, plush chords, and crisp hats. .',
+		bioOne: '',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
