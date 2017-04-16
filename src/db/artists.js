@@ -98,7 +98,7 @@ export default [
 			twitter: 'www.twitter.com/dj_seinfeld',
 			soundcloud: 'www.soundcloud.com/dj-seinfeld'
 		},
-		bioOne: 'Barcelona based Swede Armand Jakobsson is a true master of raw house music. His ability to so clearly express emotion in his productions have granted him high praise from a large range of electronic artists. In 2017, Jakobsson will see his music released on the likes of Endotherm, Lobster Fury, Lobster Theremin, Natural Sciences, UNTO and E-Beamz.',
+		bioOne: 'Barcelona based Swede Armand Jakobsson is a true master of raw house music. His ability to so clearly express emotion in his productions have granted him high praise from his peers. In 2017, Jakobsson will see his music released on the likes of Endotherm, Lobster Fury, Lobster Theremin, Natural Sciences, UNTO and E-Beamz.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 1,
