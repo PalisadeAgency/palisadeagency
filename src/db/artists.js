@@ -161,7 +161,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/harrisonbdp'
 		},
-		bioOne: 'Based in Cardiff, Wales, Harrison Webber is known and loved for tracks such as “Decompression” (out on a multi-artist EP on Strcr Records) and “It’s Foggy Outside” (forthcoming on Artesian Sounds), which illustrate Webber’s signature style of low, jabby bass hits, plush chords, and crisp hats. Webber has an exciting year ahead of himself with five EP’s slated for release.',
+		bioOne: 'Based out of Cardiff, Wales, Harrison BDP is known and loved for his utilization of low, jabby bass hits, plush chords, and crisp hats. .',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
