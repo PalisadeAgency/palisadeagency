@@ -224,7 +224,7 @@ export default [
 			twitter: 'www.twitter.com/naturalsciencez',
 			soundcloud: 'www.soundcloud.com/naturalsciences'
 		},
-		bioOne: 'Formed in Manchester by label-head Alex Hall, Natural Sciences is a label that puts out underground gems ranging from soothing ambient cuts to acid-house belters. With 12 releases over the past two years, Natural Sciences counts the likes of DJ Seinfeld, DJ Swagger, and Textasy to its roster- encompassing a gritty and emotive sound produced by stars of the underground.',
+		bioOne: 'Formed in Manchester by the legendary Alex Hall, Natural Sciences is a label that has continously pushed and contributed to the expansion of underground electronic music. With over 12 EPs released in the past two years, Natural Sciences has featurued the likes of DJ Seinfled, Textasy, D. Futers, Aleks, Aquarium, Warren Raw, DJ Bong Gozling, DJ Swagger and Stratton.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 3,
