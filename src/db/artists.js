@@ -98,7 +98,7 @@ export default [
 			twitter: 'www.twitter.com/dj_seinfeld',
 			soundcloud: 'www.soundcloud.com/dj-seinfeld'
 		},
-		bioOne: 'Classically schooled in music growing up, Armand Jakkobson embraces feeling in his artistic production. The Barcelona-based Swede elegantly captures human emotion and packages it into tracks that are perfect for both the bedroom and the dance-floor, while referencing influences ranging from L.I.E.S Records to early Detroit House. In 2017, we can look forward to Jakkobson’s releases on Ectotherm, Lobster Fury, Lobster Theremin, and Natural Sciences.',
+		bioOne: 'Barelona based Swede Armand Jakkobson is a true master of raw emotional house music. His ability to so clearly express emotion in his productions have granted him high praise from a large range of electronic artists. In 2017, Jakkobson will see his music released on the likes of Endotherm, Lobster Fury, Lobster Theremin, Natural Sciences, UNTO and E-Beamz.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 1,
