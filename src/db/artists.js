@@ -371,7 +371,7 @@ export default [
 			twitter: 'www.twitter.com/szcheck',
 			soundcloud: 'www.soundcloud.com/filipscekic'
 		},
-		bioOne: 'As one of the most unique talents to emerge out of Croatia’s recent electronic surge, SZCH finds himself exploring a space between classic house and gritty lo-fi. Along with being 1/3 of the notorious “Low Income $quad”, the Zagreb native has released EPs on Always Human Tapes, LLL, and most recently, Infinite Pleasure.',
+		bioOne: 'As one of the most unique talents to emerge out of Croatia’s recent electronic surge, SZCH finds himself exploring a space between classic house and gritty lo-fi. Along with being 1/3 of the notorious “Low Income $quad”, the Zagreb native has released EPs on Always Human Tapes, LLL, Infinite Pleasure, and most recently, Departures.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
