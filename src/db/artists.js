@@ -266,7 +266,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/pepmanpepe'
 		},
-		bioOne: 'Based out of Brighton, UK, Pépe continues to impress with his unique quick paced melodic productions. The Spaniard has seen his work featured on the likes of Sprung Records, In Records Paris, and most recently, Renascence. With more than 3 EPs slated for releases in 2017, Pépe looks to further his foothold in the underground electronic scene.',
+		bioOne: 'Based out of Brighton, UK, Pépe continues to impress with his unique quick paced melodic productions. The Spaniard has seen his work featured on the likes of Sprung Records, In Records Paris, and most recently, Renascence. With more than 3 EPs slated for release in 2017, Pépe looks to further his foothold in the underground electronic scene.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 1,
