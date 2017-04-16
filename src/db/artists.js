@@ -13,7 +13,7 @@ export default [
 			twitter: 'www.twitter.com/MichaelBaltra',
 			soundcloud: 'www.soundcloud.com/Baltra'
 		},
-		bioOne: 'Born and raised in Northeast Philadelphia, the now New York native Michael S. Baltra has been making some of most noteworthy and unique house music of the last decade. Baltra’s most noted releases include “Fade Away”- out on a 4-track EP for Craigie Knows and named the 94th best track of 2016 by mixmag -  & “Tears Drop” on Hokkaido Dance Club.',
+		bioOne: 'Born and raised in Northeast Philadelphia, the now New York native Michael S. Baltra has been busy making some of most noteworthy house music of the current decade. Baltra’s most noted releases include “Fade Away” - out on a 4-track EP for Craigie Knows - “Tears Drop” on Hokkaido Dance Club - and most recently, "No Regrets" - a vinyl repressing of many of his youtube hits out on Of Paradise.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 1,
