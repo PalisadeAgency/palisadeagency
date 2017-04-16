@@ -56,7 +56,7 @@ export default [
 			twitter: 'www.twitter.com/DJ_BORING',
 			soundcloud: 'www.soundcloud.com/djboring1990'
 		},
-		bioOne: 'Australian born, London-based musician Tristan Hallis sent ripples through the underground house music community with the release of his single “Winona” on E-Beamz. A vinyl aficionado and notoriously friendly dude, Boring’s signature stripped-down sound has become somewhat of a blueprint for an emerging sub-genre of house- a raw distorted music that stands as a stark contrast to musical elements of the commercial club scene.',
+		bioOne: 'Australian born, London-based musician Tristan Hallis sent ripples through the underground house music community with the release of his single “Winona”. A vinyl aficionado and notoriously friendly dude, Boring’s signature stripped-down sound has become somewhat of a blueprint for an emerging sub-genre of house- a raw distorted music that stands as a stark contrast to musical elements of the commercial club scene.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 3,
