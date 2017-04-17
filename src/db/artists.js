@@ -329,7 +329,7 @@ export default [
 			twitter: 'www.twitter.com/shallnot_fade',
 			soundcloud: 'www.soundcloud.com/shallnotfade'
 		},
-		bioOne: 'Shall not fade is a vinyl-only imprint based in Bristol that is widely recognized for cultivating and promoting the hottest names in the scene today. Mall Grab helmed the label’s first solo release in 2015. From there, Shall Not Fade rose to prominence, and now boasts 12 releases on it’s main imprint and 8 across its 3 sub-labels (Shall Not Fade White, Steel City Dance Disks, and Lost Palms). With Deejay Astral, Lake Haze, TRP, and LK on its roster amongst other notable producers.',
+		bioOne: 'Shall not fade is a vinyl-only imprint based in Bristol, and is widely recognized for cultivating the hottest names in the scene today. Famed Australian DJ/Producer Mall Grab helmed the label’s first release in 2015. From there, Shall Not Fade has risen to prominence, and now boasts 12 releases on its main imprint and 8 releases across its 3 sub-labels: Shall Not Fade White, Steel City Dance Disks, and Lost Palms. With Deejay Astral, Lake Haze, TRP, and LK on its roster amongst other notable producers, Shall Not Fade is deservedly renowned within the underground house-music community.',
 		bioTwo: '',
 		agent: 'RYAN OTIS, MAT CONSTANCE',
 		col: 4,
