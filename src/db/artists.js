@@ -392,7 +392,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/x-coast'
 		},
-		bioOne: 'Serbian-born, Brookyln-based musician Bojan Cizmic is known for jumping between different genres within and between his releases. His smash debut, named “Mango Bay” after the EP’s most successful single, plays with nostalgic sounds of 90’s rave culture and has garnered hundreds of thousands of views on Youtube. X-Coast’s more recent release “Ghetto Baby/Natural Dub” on Mall Grab’s “Steel City Dance Discs” has a darker twang, and  his DJ sets often venture further afield. Cizmic’s productions, along with his ability to effortlessly drift through different genres and musical styles, have earned the artist a ravenous reputation on the internet and beyond.',
+		bioOne: 'Serbian-born, Brookyln-based musician Bojan Cizmic is known for jumping between different genres within and between his releases. His smash debut, named “Mango Bay” after the EP’s most successful single, plays with nostalgic sounds of 90’s rave culture and has garnered hundreds of thousands of views on Youtube. Cizmic’s productions, along with his ability to effortlessly drift through different genres and musical styles, have earned the artist a ravenous reputation on the internet and beyond.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 3,
