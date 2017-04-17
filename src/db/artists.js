@@ -308,7 +308,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/royeeeer'
 		},
-		bioOne: 'After completing his education in Montreal, Royer lived in both Chicago and Copenhagen before settling in Paris. His releases on Lobster Theremin and Closer point at a keen sensibility for pairing ambient noises with dancey-beats. The product is a laid-back sound that absolutely lights-up dance-floors. Royer kicked off 2017 with just-released EP entitled “Documented” on Mörk Records, leaving us in high anticipation of what is to come.',
+		bioOne: 'A talented producer and artist with a sharp ear for a sample, William James Thurman lived in Montreal, Chicago, and Copenhagen before settling in Paris. His releases on “Lobster Theremin”, “Closer”, and “Tasteful Nudes” point at a keen sensibility for pairing ambient sounds with driving drums and thick bass-lines. Kicking off the year with the release of a celebrated EP entitled “Documented” on “Mörk Records”, Royer has those in-the-know hungry for more.',
 		bioTwo: '',
 		agent: 'Mat Constance',
 		col: 3,
