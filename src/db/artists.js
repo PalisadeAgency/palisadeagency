@@ -308,7 +308,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/royeeeer'
 		},
-		bioOne: 'A talented producer and artist with a sharp ear for a sample, William James Thurman lived in Montreal, Chicago, and Copenhagen before settling in Paris. His releases on “Lobster Theremin”, “Closer”, and “Tasteful Nudes” point at a keen sensibility for pairing ambient sounds with driving drums and thick bass-lines. Kicking off the year with the release of a celebrated EP entitled “Documented” on “Mörk Records”, Royer has those in-the-know hungry for more.',
+		bioOne: 'A talented producer and artist with a sharp ear for a sample, William James Thurman lived in Montreal, Chicago, and Copenhagen before settling in Paris. His releases on Lobster Theremin, Closer, and Tasteful Nudes point at a keen sensibility for pairing ambient sounds with driving drums and thick bass-lines. Kicking off the year with the release of a celebrated EP entitled “Documented” on Mörk Records, Royer has those in-the-know hungry for more.',
 		bioTwo: '',
 		agent: 'Mat Constance',
 		col: 3,
