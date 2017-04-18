@@ -34,7 +34,7 @@ export default [
 			twitter: 'www.twitter.com/deejayastral',
 			soundcloud: 'www.soundcloud.com/deejayastral'
 		},
-		bioOne: 'Hailing from London, Samuel Walker produces and DJs under the moniker “Deejay Astral”. Walker dives deep into the emotional, drawing more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage, than anywhere else. His most prominent release to date, a 2 tracker on Mall Grab helmed Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following.',
+		bioOne: 'Hailing from London, Samuel Walker produces and DJs under the moniker “Deejay Astral”. Walker dives deep into emotion, drawing more heavily on the influences of electronic music in the early 90’s: house, techno, jungle, and garage, than anywhere else. His most prominent release to date, a 2 tracker on Mall Grab helmed Steel City Dance Discs has garnered the young DJ recognition beyond his loyal internet following.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
