@@ -287,7 +287,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/11pmraar'
 		},
-		bioOne: 'Paris-based producer/DJ Raär is a master when it comes to creating stunning, hard-edged electronic music. Simply put, the Parisian comprises a standout within the contemporary raw techno/house scene. While riding the success off of his releases on “Raw Culture”, “Dream Raw Recordings”, and “Who’s Susan”, Raär’s recent smash hit “Sometimes I Hear Sirens” on “House Plants Records” is leaving fans and followers in deep anticipation of what is to come.',
+		bioOne: 'Paris-based producer/DJ Raär is a master when it comes to creating stunning, hard-edged electronic music. Simply put, the Parisian comprises a standout within the contemporary raw techno/house scene. While riding the success off of his releases on Raw Culture, Dream Raw Recordings, and Who’s Susan, Raär’s recent smash hit “Sometimes I Hear Sirens” on House Plants Records is leaving fans and followers in deep anticipation of what is to come.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
