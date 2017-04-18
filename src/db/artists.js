@@ -119,7 +119,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/djswaggerxxx'
 		},
-		bioOne: '18-year-old German producer DJ Swagger keeps an especially low-profile, while his music does the opposite. By bringing together acid synths, breakbeats, cheeky samples, and 909 drum hits into dance-floor-ready tracks, DJ Swagger’s productions teem with energy. His “Remember Me” EP on “E-Beams” and “Greatest Hits” EP out on “Natural Sciences” are a testament to the young German’s matured musical talent.',
+		bioOne: '18-year-old German producer DJ Swagger keeps an especially low-profile, while his music does the opposite. By bringing together acid synths, breakbeats, cheeky samples, and 909 drum hits into dance-floor-ready tracks, DJ Swagger’s productions teem with energy. His “Remember Me” EP on E-Beamz and “Greatest Hits” EP out on Natural Sciences are a testament to the young German’s matured musical talent.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 2,
