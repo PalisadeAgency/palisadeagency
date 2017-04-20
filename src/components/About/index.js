@@ -16,10 +16,10 @@ const About = (props) => {
 				<div className="block-left">
 					<div className="about--info bebas-regular">
 						<div className="about__p">
-							An international booking agency located in the heart of Canada’s Cultural Mecca; Montreal.
+							An international booking agency and management firm located in the heart of Canada’s cultural mecca; Montreal.
 						</div>
 						<div className="about__p">
-							We are proud to represent the artists of tomorrow so that you can enjoy the best in music today.
+							We specialize in value-driven growth strategies and long-term career risk management.
 						</div>
 					</div>
 				</div>
@@ -27,14 +27,12 @@ const About = (props) => {
 				<div className="block-right">
 					<div className="about--contact--social">
 						<span className="about--contact--social__span">
-							<a href="https://www.instagram.com/palisadeagency/
-" className="social-icon">
+							<a href="https://www.instagram.com/palisadeagency/" className="social-icon">
 								<img src={instagram} alt="instagram icon"/>
 							</a>
 						</span>
 						<span className="about--contact--social__span">
-							<a href="https://www.facebook.com/palisadeagency/
-" className="social-icon">
+							<a href="https://www.facebook.com/palisadeagency/" className="social-icon">
 								<img src={facebook} alt="facebook icon"/>
 							</a>
 						</span>
