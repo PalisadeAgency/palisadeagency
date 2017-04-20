@@ -353,7 +353,7 @@ export default [
 		bioOne: 'Shall not fade is a vinyl-only imprint based in Bristol, UK. Famed Australian DJ/Producer Mall Grab helmed the label’s first release in 2015. SNF now boasts 12 releases on its main imprint and 8 releases across its 3 sub-labels: Shall Not Fade White, Steel City Dance Disks, and Lost Palms. With Deejay Astral, Lake Haze, TRP, and LK on its roster amongst other notable producers, Shall Not Fade is deservedly renown within the underground house-music community.',
 		bioTwo: '',
 		agent: 'RYAN OTIS, MAT CONSTANCE',
-		col: 4,
+		col: 1,
 		region: "GLOBAL"
   },
    {
@@ -374,7 +374,7 @@ export default [
 		bioOne: 'As one of the hottest acts to emerge out of Australia in the last year, DJ and production duo Sonderr are ready to take the world by storm. Offering up an incredibly diverse selection of music in both their releases and sets, these Shall Not Fade poster boys are ones to watch in 2017.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 1,
+		col: 2,
 		region: "GLOBAL"
 	},
    {
@@ -395,7 +395,7 @@ export default [
 		bioOne: 'As one of the most unique talents to emerge out of Croatia’s recent electronic renaissance, SZCH finds himself exploring a space between classic house and gritty lo-fi. Along with being one third of the notorious “Low Income $quad”, the Zagreb native has released EPs on Always Human Tapes, LLL, Infinite Pleasure, and most recently, Departures.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 3,
 		region: "GLOBAL"
 	},
    {
@@ -416,7 +416,7 @@ export default [
 		bioOne: 'Serbian-born, Brookyln-based musician Bojan Cizmic is known for referencing multiple genres in his productions. His smash debut, named “Mango Bay” after the EP’s most successful single, plays with nostalgic sounds of 90’s rave culture and has garnered hundreds of thousands of views on Youtube. Cizmic’s productions, along with his ability to effortlessly drift through different genres and musical styles, have earned the artist a ravenous reputation on the internet and beyond.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 3,
+		col: 4,
 		region: "GLOBAL"
 	},
 ]
