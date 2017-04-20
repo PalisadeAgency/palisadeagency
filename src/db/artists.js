@@ -315,7 +315,7 @@ export default [
 		region: "GLOBAL"
 	},
    {
-		name: 'Seb Wildblood 💉',
+		name: 'Seb Wildblood',
 		locale: '(UK)',
 		offering: 'DJ',
 		description: '',
