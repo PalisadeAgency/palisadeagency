@@ -314,6 +314,27 @@ export default [
 		col: 3,
 		region: "GLOBAL"
 	},
+   {
+		name: 'Seb Wildblood',
+		locale: '(UK)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492239788/shall_not_fade_pwdrhu.png"
+		],
+		social: {
+			instagram: 'www.instagram.com/sebwildblood',
+			facebook: 'www.facebook.com/sebwildbloodofficial',
+			twitter: 'www.twitter.com/sebwildblood',
+			soundcloud: 'www.soundcloud.com/sebwildblood'
+		},
+		bioOne: 'Shall not fade is a vinyl-only imprint based in Bristol, UK. Famed Australian DJ/Producer Mall Grab helmed the label’s first release in 2015. SNF now boasts 12 releases on its main imprint and 8 releases across its 3 sub-labels: Shall Not Fade White, Steel City Dance Disks, and Lost Palms. With Deejay Astral, Lake Haze, TRP, and LK on its roster amongst other notable producers, Shall Not Fade is deservedly renown within the underground house-music community.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 4,
+		region: "North + South America"
+  },
   {
 		name: 'Shall Not Fade',
 		locale: '(UK)',
