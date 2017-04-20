@@ -7,6 +7,7 @@
 .artist-info {
     width: 100%;
     margin-left: 45px;
+    padding-top: 12px;
 }
 
 .artist-info .artist-headline {
@@ -37,7 +38,7 @@
 
 .artist-social a {
     display: block;
-    marign-right: 0.5px;
+    margin-right: 0.5px;
 }
 
 .artist-social a img {
