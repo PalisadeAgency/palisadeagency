@@ -318,7 +318,7 @@ export default [
 		name: 'Seb Wildblood',
 		locale: '(UK)',
 		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		description: '',
 		featured: false,
 		images: [
 		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492654888/sebbbbbbb_w7l4xc.png"
