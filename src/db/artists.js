@@ -329,7 +329,7 @@ export default [
 			twitter: 'www.twitter.com/sebwildblood',
 			soundcloud: 'www.soundcloud.com/sebwildblood'
 		},
-		bioOne: 'Shall not fade is a vinyl-only imprint based in Bristol, UK. Famed Australian DJ/Producer Mall Grab helmed the label’s first release in 2015. SNF now boasts 12 releases on its main imprint and 8 releases across its 3 sub-labels: Shall Not Fade White, Steel City Dance Disks, and Lost Palms. With Deejay Astral, Lake Haze, TRP, and LK on its roster amongst other notable producers, Shall Not Fade is deservedly renown within the underground house-music community.',
+		bioOne: '',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
