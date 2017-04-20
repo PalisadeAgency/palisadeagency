@@ -321,7 +321,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492239788/shall_not_fade_pwdrhu.png"
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492654888/sebbbbbbb_w7l4xc.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/sebwildblood',
@@ -329,7 +329,7 @@ export default [
 			twitter: 'www.twitter.com/sebwildblood',
 			soundcloud: 'www.soundcloud.com/sebwildblood'
 		},
-		bioOne: '',
+		bioOne: 'Head honcho boss man of Church Records. A force to be reconned with.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
