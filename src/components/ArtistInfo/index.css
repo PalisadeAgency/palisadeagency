@@ -1,5 +1,5 @@
 .artist-content {
-    margin-top: 51px;
+    margin: 51px auto;
     display: flex;
     margin-left: 134px;
 }
@@ -71,7 +71,7 @@
 .artist-image .slider {
     width: 748px;
     height: 436px;
-    margin-top: 20px;
+    margin-top: 32px;
 }
 
 .artist-image .slider__image {
