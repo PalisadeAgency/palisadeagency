@@ -1,6 +1,6 @@
 export default [
 	{
-		name: 'BALTRA 🌹',
+		name: 'BALTRA',
 		locale: '(US)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
