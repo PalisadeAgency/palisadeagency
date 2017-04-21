@@ -329,7 +329,7 @@ export default [
 			twitter: 'www.twitter.com/sebwildblood',
 			soundcloud: 'www.soundcloud.com/sebwildblood'
 		},
-		bioOne: 'Head honcho boss man of Church Records. A force to be reconned with.',
+		bioOne: 'DJ, producer, and label head of south London’s Church imprint, Seb Wildblood explores the deeper side of electronic music. As a label head, Seb works tirelessly. The label was conceived out of the Camberwell bass night of the same name, and has put out 32 stellar releases in the span of five years- garnering support from Move D, Gilles Peterson, and Mary Anne Hobbs. Seb’s productions, on the other hand, are minimal, harmonic, and balmy; working well both through headphones and a full club system. Quite simply, Seb is an integral part of the UK electronic scene. With a swath of projects yet to be announced, Seb Wildblood is a rising star to watch.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
