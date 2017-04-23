@@ -321,7 +321,7 @@ export default [
 		description: '',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492656040/seeebbsasdf_irpyrn.png"
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492654888/sebbbbbbb_w7l4xc.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/sebwildblood',
