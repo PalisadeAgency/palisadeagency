@@ -273,7 +273,7 @@ export default [
 		region: "GLOBAL"
 	},
    {
-		name: 'Räar',
+		name: 'Raär',
 		locale: '(FR)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
