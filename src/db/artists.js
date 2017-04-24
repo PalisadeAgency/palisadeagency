@@ -5,7 +5,7 @@ export default [
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
-		images: [		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492305810/baltra_j3ktto.png"
+		images: [		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492305810/baltra_j3ktto.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/Baltra',
@@ -26,7 +26,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492304694/Deejay_astral_bgqumz.png"
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492304694/Deejay_astral_bgqumz.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/deejayastral',
@@ -47,8 +47,8 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492200953/trsitannn_lnqyqb.png",
-        "http://res.cloudinary.com/drh25z8fo/image/upload/v1492201664/dani_lavicii_kqnjh0.png",
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492200953/trsitannn_lnqyqb.png",
+        "https://res.cloudinary.com/drh25z8fo/image/upload/v1492201664/dani_lavicii_kqnjh0.png",
 		],
 		social: {
 			instagram: 'www.instagram.com/internet.boring/',
@@ -69,7 +69,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492187670/octoooooo_jjmqyl.png"
+			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492187670/octoooooo_jjmqyl.png"
 		],
 		social: {
 			instagram: '',
@@ -90,7 +90,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1490457262/dj_seinfeld_web_qbcx3x.png"
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1490457262/dj_seinfeld_web_qbcx3x.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/DJ_Seinfeld',
@@ -111,7 +111,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492285929/deejjjjay_swagger_tu4uzz.png"
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492285929/deejjjjay_swagger_tu4uzz.png"
 		],
 		social: {
 			instagram: '',
@@ -132,7 +132,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492286406/grey_people_n8hrqs.png"
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492286406/grey_people_n8hrqs.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/gp6669',
@@ -153,7 +153,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492288458/harrison_gf6op9.png"
+			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492288458/harrison_gf6op9.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/harrisonbdp1/',
@@ -174,7 +174,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492305363/interstate_axmfow.png"
+			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492305363/interstate_axmfow.png"
 		],
 		social: {
 			instagram: '',
@@ -195,7 +195,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492235361/jjjj_albert_t2vhqr.png"
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492235361/jjjj_albert_t2vhqr.png"
 		],
 		social: {
 			instagram: '',
@@ -216,7 +216,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492240517/natural_sciences_islmo4.png"
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492240517/natural_sciences_islmo4.png"
 		],
 		social: {
 			instagram: '',
@@ -237,7 +237,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492285591/panthera_qyd0sb.png"
+			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492285591/panthera_qyd0sb.png"
 		],
 		social: {
 			instagram: '',
@@ -258,7 +258,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492239304/pepepep_nvt7as.png"
+			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492239304/pepepep_nvt7as.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/pepmanpepe',
@@ -279,7 +279,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492192250/fjasldfkjasdflkasjfdlaskjf_rj77sz.png"
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492192250/fjasldfkjasdflkasjfdlaskjf_rj77sz.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/raar_v',
@@ -300,7 +300,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492306291/royeerrr_qtwgur.png"
+			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492306291/royeerrr_qtwgur.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/royeeeer/',
@@ -321,7 +321,7 @@ export default [
 		description: '',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492654888/sebbbbbbb_w7l4xc.png"
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492654888/sebbbbbbb_w7l4xc.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/sebwildblood',
@@ -342,7 +342,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492239788/shall_not_fade_pwdrhu.png"
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492239788/shall_not_fade_pwdrhu.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/shallnotfade/',
@@ -363,7 +363,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492372729/sonderrrr_i8csfb.png"
+			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492372729/sonderrrr_i8csfb.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/sonderraus/',
@@ -384,7 +384,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492304250/SZCH_oobgla.png"
+			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492304250/SZCH_oobgla.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/szcheck',
@@ -405,7 +405,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492287409/Website_artist_page_zf0fty.png"
+		"https://res.cloudinary.com/drh25z8fo/image/upload/v1492287409/Website_artist_page_zf0fty.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/roy_fokker',
