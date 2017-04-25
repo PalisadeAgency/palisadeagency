@@ -329,7 +329,7 @@ export default [
 			twitter: 'www.twitter.com/sebwildblood',
 			soundcloud: 'www.soundcloud.com/sebwildblood'
 		},
-		bioOne: 'DJ, producer, and head of south London’s Church imprint, Seb Wildblood is the next big thing.',
+		bioOne: 'For the last five years, Wildblood has been a key part of the South London club scene via his party and label Church (Mall Grab, Project Pablo, Chaos In The CBD), which has gained him support across the spectrum from artists such as Move D, Gilles Peterson & Mary Anne Hobbs to name a few. Whilst gradually cementing Church’s reputation, the low key producer has also been carefully crafting a sound of his own.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
