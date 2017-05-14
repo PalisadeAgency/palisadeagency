@@ -4,12 +4,23 @@
     margin-left: 134px;
 }
 
+@media (max-width: 330px) {
+  .artist-content {
+    flex-direction: column;
+  }
+}
+
 .artist-info {
     width: 100%;
     margin-left: 45px;
     padding-top: 12px;
 }
-
+@media (max-width: 330px) {
+  .artist-info {
+    margin-left: 0;
+    margin-top: 50px;
+  }
+}
 .artist-info .artist-headline {
     display: flex;
 }
@@ -80,4 +91,12 @@
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
+}
+
+
+@media (max-width: 330px) {
+  .artist-image .slider {
+    margin: 0 auto;
+    width: 80%;
+  }
 }
