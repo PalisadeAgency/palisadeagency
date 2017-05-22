@@ -1,4 +1,6 @@
-export default [
+export default 
+
+[
   'https://res.cloudinary.com/drh25z8fo/image/upload/v1493060120/Magoss_dyvis9.png',
   'http://res.cloudinary.com/drh25z8fo/image/upload/v1495489792/Harrison_Web_q7muci.png',
   'http://res.cloudinary.com/drh25z8fo/image/upload/v1495489800/tristan_ebcg5y.png',
