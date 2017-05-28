@@ -43,7 +43,7 @@ const Booker = (props) => {
 				</div>
 				<div className="vert-bar"></div>
 				<div className="bookers-right" style={{marginLeft: '20px'}}>
-					<a href="mailto:M@palisadeagency.com">
+					<a href="mailto:m@palisadeagency.com">
 						<div className="booker--name bebas-bold">
 							<div className="booker--large">
 								MAT CONSTANCE (CA)
@@ -57,7 +57,7 @@ const Booker = (props) => {
 						</div>
 					</a>
 
-					<a href="mailto:M@palisadeagency.com">
+					<a href="mailto:e@palisadeagency.com">
 						<div className="booker--name bebas-bold">
 							<div className="booker--large">
 								EMMANUEL COTE (CA)
