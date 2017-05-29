@@ -28,7 +28,7 @@ const Booker = (props) => {
 				<a href="mailto:o@palisadeagency.com">
 					<div className="booker--name bebas-bold">
 						<div className="booker--large">
-							OLIVIER LAMONTAGNE (CA)
+							OLI LAMONTAGNE (CA)
 						</div>
 						<span className="booker--offering bebas-regular">
 							MEDIA MANAGER
@@ -42,7 +42,7 @@ const Booker = (props) => {
 
 				</div>
 				<div className="vert-bar"></div>
-				<div className="bookers-right" style={{marginLeft: '20px'}}>
+				<div className="bookers-right">
 					<a href="mailto:m@palisadeagency.com">
 						<div className="booker--name bebas-bold">
 							<div className="booker--large">
