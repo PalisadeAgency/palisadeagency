@@ -102,7 +102,7 @@ export default [
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 1,
-		region: "GLOBAL"
+		region: "NORTH + SOUTH AMERICA"
 	},
 	 {
 		name: 'DJ Swagger',
