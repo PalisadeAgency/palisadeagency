@@ -354,14 +354,14 @@ export default [
 		col: 1,
 		region: "GLOBAL"
   },
-   {
+  {
 		name: 'Strahinja Arbutina',
 		locale: '(HR)',
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-			""
+			"http://res.cloudinary.com/drh25z8fo/image/upload/v1496204277/Strahinja_wtknls.png"
 		],
 		social: {
 			instagram: '',
@@ -369,8 +369,8 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/strahinja-arbutina'
 		},
-		bioOne: '',
-		bioTwo: '',
+		bioOne: '1/3 of Low Income Squad.',
+		bioTwo: 'Bank Records front runner.',
 		agent: 'RYAN OTIS',
 		col: 2,
 		region: "GLOBAL"
