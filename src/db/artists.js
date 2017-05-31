@@ -230,7 +230,7 @@ export default [
 		col: 3,
 		region: "GLOBAL"
 	},
-  {
+{
 		name: 'Natural Sciences',
 		locale: '(UK)',
 		offering: 'DJ',
