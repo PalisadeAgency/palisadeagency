@@ -209,7 +209,7 @@ export default [
 		col: 2,
 		region: "North America"
 	},
-   {
+ {
 		name: 'Marcos Cabral',
 		locale: '(US)',
 		offering: 'DJ',
