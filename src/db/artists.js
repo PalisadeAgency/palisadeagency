@@ -240,11 +240,11 @@ export default [
 		],
 		social: {
 			instagram: '',
-			facebook: '',
+			facebook: 'www.facebook.com/naturalsciencesrecs',
 			twitter: '',
-			soundcloud: ''
+			soundcloud: 'www.soundcloud.com/naturalsciences'
 		},
-		bioOne: '',
+		bioOne: 'Natural Sciences continues to demonstrate it"s ability to experiment, tame, and conquer the incredibly large spectrum that is electronic music.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
