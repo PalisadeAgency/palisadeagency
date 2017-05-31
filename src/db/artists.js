@@ -215,8 +215,7 @@ export default [
 		offering: 'DJ',
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
-		images: [
-			""
+		images: [		"http://res.cloudinary.com/drh25z8fo/image/upload/v1496205754/Marcos_Cabral_Web_pqfovm.png"
 		],
 		social: {
 			instagram: 'www.instagram.com/marcos__cabral/',
