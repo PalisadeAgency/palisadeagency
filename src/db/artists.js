@@ -219,13 +219,13 @@ export default [
 			""
 		],
 		social: {
-			instagram: '',
-			facebook: '',
+			instagram: 'www.instagram.com/marcos__cabral/',
+			facebook: 'www.facebook.com/Marcos.Cabral.NYC/',
 			twitter: '',
-			soundcloud: ''
+			soundcloud: 'www.soundcloud.com/marcos-cabral-nyc'
 		},
-		bioOne: '',
-		bioTwo: '',
+		bioOne: 'Undoubtedly, Marcos Cabral is one of the most influential electronic producers to have lived in the current decade. His unforgiving yet systematically illuminating music has pushed the boundaries of the electronic spectrum time and time again.',
+		bioTwo: 'Cabral has graced the likes of L.I.E.S. (not once, not twice, but six (6) times), Crème Organisation, The Trilogy Tapes, and Mule Musiq amongst others.',
 		agent: 'RYAN OTIS',
 		col: 3,
 		region: "GLOBAL"
