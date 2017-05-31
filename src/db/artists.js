@@ -244,7 +244,7 @@ export default [
 			soundcloud: 'www.soundcloud.com/naturalsciences'
 		},
 		bioOne: "Natural Sciences continues to demonstrate it's ability to experiment, tame, and conquer the incredibly large spectrum that is electronic music.",
-		bioTwo: "The label has featured acts such as Textasy, DJ Seinfeld, DJ Bong Gozling, DJ Swagger, Warren Raw, Antonio, D. Futers, Aquarium, Mono-Enzyme 307, Stratton, and E. David."
+		bioTwo: "The label has featured acts such as Textasy, DJ Seinfeld, DJ Bong Gozling, DJ Swagger, Warren Raw, Antonio, D. Futers, Aquarium, Mono-Enzyme 307, Stratton, and E. David.",
 		agent: 'RYAN OTIS',
 		col: 4,
 		region: "GLOBAL"
