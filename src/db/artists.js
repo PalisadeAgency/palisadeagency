@@ -370,8 +370,8 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/strahinja-arbutina'
 		},
-		bioOne: '',
-		bioTwo: '',
+		bioOne: '1/3 of Low Income Squad.',
+		bioTwo: 'Bank Records front runner.',
 		agent: 'RYAN OTIS',
 		col: 2,
 		region: "GLOBAL"
