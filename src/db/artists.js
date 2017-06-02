@@ -306,8 +306,8 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/personofinterest'
 		},
-		bioOne: '',
-		bioTwo: '',
+		bioOne: 'A true legend of the underground.',
+		bioTwo: 'POI has been featured ont he likes of L.I.E.S, Royal Oak, Future Times, Erotic Dance Records, and Russian Torent Versions.',
 		agent: 'RYAN OTIS',
 		col: 3,
 		region: "GLOBAL"
