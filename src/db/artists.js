@@ -411,7 +411,7 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/strahinja-arbutina'
 		},
-		bioOne: "Strahinja Arbutina is a techno artist hailing from Zagreb, Croatia. His recent EP on Entro Senestre's new lable Bank Records has garnered him praise from fans and fellow producers alike.",
+		bioOne: "Strahinja Arbutina is a techno artist hailing from Zagreb, Croatia. His recent EP on Entro Senestre's new label Bank Records has garnered him praise from fans and fellow producers alike.",
 		bioTwo: "1/3 of Low Income Squad.",
 		agent: 'RYAN OTIS',
 		col: 4,
