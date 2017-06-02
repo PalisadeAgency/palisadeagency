@@ -292,6 +292,27 @@ export default [
 		region: "GLOBAL"
 	},
    {
+		name: 'Person of Interest',
+		locale: '(US)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+	"http://res.cloudinary.com/drh25z8fo/image/upload/v1496373723/Person_of_Interest_2_nzuvr7.png"
+		],
+		social: {
+			instagram: 'https://www.instagram.com/angel.de.la.guardia.nyc/',
+			facebook: '',
+			twitter: '',
+			soundcloud: 'www.soundcloud.com/personofinterest'
+		},
+		bioOne: '',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 3,
+		region: "GLOBAL"
+	},
+   {
 		name: 'Raär',
 		locale: '(FR)',
 		offering: 'DJ',
@@ -309,7 +330,7 @@ export default [
 		bioOne: 'Paris-based producer/DJ Raär is a master when it comes to creating stunning, hard-edged electronic music. Simply put, the Parisian comprises a standout within the contemporary raw techno/house scene. While riding the success off of his releases on Raw Culture, Dream Raw Recordings, and Who’s Susan, Raär’s recent smash hit “Sometimes I Hear Sirens” on House Plants Records is leaving fans and followers in deep anticipation of what is to come.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 3,
+		col: 4,
 		region: "GLOBAL"
 	},
    {
@@ -330,7 +351,7 @@ export default [
 		bioOne: 'A talented producer and artist with a sharp ear for a sample, William James Thurman lived in Montreal, Chicago, and Copenhagen before settling in Paris. His releases on Lobster Theremin, Closer, and Tasteful Nudes point at a keen sensibility for pairing ambient sounds with driving drums and thick bass-lines. Kicking off the year with the release of a celebrated EP entitled “Documented” on Mörk Records, Royer has those in-the-know hungry for more.',
 		bioTwo: '',
 		agent: 'Mat Constance',
-		col: 4,
+		col: 1,
 		region: "GLOBAL"
 	},
   {
@@ -351,9 +372,30 @@ export default [
 		bioOne: 'Shall not fade is a vinyl-only imprint based in Bristol, UK. Famed Australian DJ/Producer Mall Grab helmed the label’s first release in 2015. SNF now boasts 12 releases on its main imprint and 8 releases across its 3 sub-labels: Shall Not Fade White, Steel City Dance Disks, and Lost Palms. With Deejay Astral, Lake Haze, TRP, and LK on its roster amongst other notable producers, Shall Not Fade is deservedly renown within the underground house-music community.',
 		bioTwo: '',
 		agent: 'RYAN OTIS, MAT CONSTANCE',
-		col: 1,
+		col: 2,
 		region: "GLOBAL"
   },
+   {
+		name: 'Steve Murphy',
+		locale: '(IT)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+	"http://res.cloudinary.com/drh25z8fo/image/upload/v1496373882/Steve_Murphy_zkc7zf.png"
+		],
+		social: {
+			instagram: '',
+			facebook: '',
+			twitter: '',
+			soundcloud: 'https://soundcloud.com/stevemurphyridesagain'
+		},
+		bioOne: "Despite his artist name and his trademark sound, Steve Murphy does not come from Chicago, but from Mira, a little town on the suburban area of Venice.",
+		bioTwo: 'Steve has been featured on lables such as: Rawax, Chiwax, Wilson, Lobster Theremin, Basement Floor, and Muscle.',
+		agent: 'Mat Constance',
+		col: 3,
+		region: "GLOBAL"
+	},
   {
 		name: 'Strahinja Arbutina',
 		locale: '(HR)',
@@ -372,7 +414,7 @@ export default [
 		bioOne: "Strahinja Arbutina is a techno artist hailing from Zagreb, Croatia. His recent EP on Entro Senestre's new lable Bank Records has garnered him praise from fans and fellow producers alike.",
 		bioTwo: "1/3 of Low Income Squad.",
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 4,
 		region: "GLOBAL"
 	},
    {
@@ -393,7 +435,7 @@ export default [
 		bioOne: 'As one of the most unique talents to emerge out of Croatia’s recent electronic renaissance, SZCH finds himself exploring a space between classic house and gritty lo-fi. Along with being one third of the notorious “Low Income $quad”, the Zagreb native has released EPs on Always Human Tapes, LLL, Infinite Pleasure, and most recently, Departures.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 3,
+		col: 1,
 		region: "GLOBAL"
 	},
    {
@@ -414,7 +456,7 @@ export default [
 		bioOne: 'Serbian-born, Brookyln-based musician Bojan Cizmic is known for referencing multiple genres in his productions. His smash debut, named “Mango Bay” after the EP’s most successful single, plays with nostalgic sounds of 90’s rave culture and has garnered hundreds of thousands of views on Youtube. Cizmic’s productions, along with his ability to effortlessly drift through different genres and musical styles, have earned the artist a ravenous reputation on the internet and beyond.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 4,
+		col: 2,
 		region: "GLOBAL"
 	},
 ]
