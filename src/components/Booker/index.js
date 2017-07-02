@@ -25,20 +25,7 @@ const Booker = (props) => {
 							</div>
 					</a>
 
-				<a href="mailto:o@palisadeagency.com">
-					<div className="booker--name bebas-bold">
-						<div className="booker--large">
-							OLI LAMONTAGNE (CA)
-						</div>
-						<span className="booker--offering bebas-regular">
-							MEDIA MANAGER
-						</span>
-					</div>
-					<div className="booker--email bebas-regular">
-						O@PALISADEAGENCY.COM
-					</div>
-				</a>
-
+	
 
 				</div>
 				<div className="vert-bar"></div>
