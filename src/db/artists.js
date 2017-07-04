@@ -386,9 +386,9 @@ export default [
 		],
 		social: {
 			instagram: '',
-			facebook: '',
+			facebook: 'www.facebook.com/stevemurphyandco/',
 			twitter: '',
-			soundcloud: 'https://soundcloud.com/stevemurphyridesagain'
+			soundcloud: 'www.soundcloud.com/stevemurphyridesagain'
 		},
 		bioOne: "Despite his artist name and his trademark sound, Steve Murphy does not come from Chicago, but from Mira, a little town on the suburban area of Venice.",
 		bioTwo: 'Steve has been featured on lables such as: Rawax, Chiwax, Wilson, Lobster Theremin, Basement Floor, and Muscle.',
