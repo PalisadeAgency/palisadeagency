@@ -125,27 +125,6 @@ export default [
 		col: 2,
 		region: "GLOBAL"
 	},
-  {
-		name: 'Grey People',
-		locale: '(US)',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		images: [
-		"http://res.cloudinary.com/drh25z8fo/image/upload/v1492286406/grey_people_n8hrqs.png"
-		],
-		social: {
-			instagram: '',
-			facebook: 'www.facebook.com/Grey-People-117420154952537',
-			twitter: 'www.twitter.com/Grey_People',
-			soundcloud: 'www.soundcloud.com/grey_people'
-		},
-		bioOne: 'Alex J Michalski is no stranger to the more eloquent side of techno. A master at harnessing the power of his analog gear, Alex’s music has been featured on the likes of Proper Trax, Mystical Disco, Cult Trip, Finale Sessions, CGI Records, Public System Recordings (a split EP including 2 tracks from DJ Spider), and most recently, Valcron Video.',
-		bioTwo: '',
-		agent: 'RYAN OTIS',
-		col: 3,
-		region: "GLOBAL"
-	},
    {
 		name: 'Harrison BDP',
 		locale: '(UK)',
@@ -227,47 +206,6 @@ export default [
 		bioTwo: 'Cabral has graced the likes of L.I.E.S. (not once, not twice, but six (6) times), Crème Organisation, The Trilogy Tapes, and Mule Musiq amongst others.',
 		agent: 'RYAN OTIS',
 		col: 3,
-		region: "GLOBAL"
-	},
-{
-		name: 'Natural Sciences',
-		locale: '(UK)',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		images: [			"http://res.cloudinary.com/drh25z8fo/image/upload/v1492240517/natural_sciences_islmo4.png"
-		],
-		social: {
-			instagram: '',
-			facebook: 'www.facebook.com/naturalsciencesrecs',
-			twitter: '',
-			soundcloud: 'www.soundcloud.com/naturalsciences'
-		},
-		bioOne: "Natural Sciences continues to demonstrate it's ability to experiment, tame, and conquer the incredibly large spectrum that is electronic music.",
-		bioTwo: "The label has featured acts such as Textasy, DJ Seinfeld, DJ Bong Gozling, DJ Swagger, Warren Raw, Antonio, D. Futers, Aquarium, Mono-Enzyme 307, 外神田deepspace, Aleks, Stratton, and E. David.",
-		agent: 'RYAN OTIS',
-		col: 4,
-		region: "GLOBAL"
-	},
-   {
-		name: 'Panthera Krause',
-		locale: '(DE)',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		images: [
-			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492285591/panthera_qyd0sb.png"
-		],
-		social: {
-			instagram: '',
-			facebook: 'www.facebook.com/pantherakrause',
-			twitter: '',
-			soundcloud: 'www.soundcloud.com/panthera-krause'
-		},
-		bioOne: 'Based in Leipzig, Germany, Panthera Krause rooted his artistic endeavours in illustration and design. Noticeably, these artistic sensibilities pour over into his audio production, where sounds oscillate between uplifting chords and winding arpeggiators. His latest releases include: his “Stonith” EP on Riotvan; “Solar System” out on Lobster Theremin; and “Umami” on Uncanny Valley.',
-		bioTwo: '',
-		agent: 'RYAN OTIS',
-		col: 1,
 		region: "GLOBAL"
 	},
   {
@@ -394,48 +332,6 @@ export default [
 		bioTwo: 'Steve has been featured on lables such as: Rawax, Chiwax, Wilson, Lobster Theremin, Basement Floor, and Muscle.',
 		agent: 'Mat Constance',
 		col: 3,
-		region: "GLOBAL"
-	},
-  {
-		name: 'Strahinja Arbutina',
-		locale: '(HR)',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		images: [
-			"http://res.cloudinary.com/drh25z8fo/image/upload/v1496204277/Strahinja_wtknls.png"
-		],
-		social: {
-			instagram: '',
-			facebook: 'www.facebook.com/strahinja.arbutina',
-			twitter: '',
-			soundcloud: 'www.soundcloud.com/strahinja-arbutina'
-		},
-		bioOne: "Strahinja Arbutina is a techno artist hailing from Zagreb, Croatia. His recent EP on Entro Senestre's new label Bank Records has garnered him praise from fans and fellow producers alike.",
-		bioTwo: "1/3 of Low Income Squad.",
-		agent: 'RYAN OTIS',
-		col: 4,
-		region: "GLOBAL"
-	},
-   {
-		name: 'SZCH',
-		locale: '(HR)',
-		offering: 'DJ',
-		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
-		featured: false,
-		images: [
-			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492304250/SZCH_oobgla.png"
-		],
-		social: {
-			instagram: 'www.instagram.com/szcheck',
-			facebook: 'www.facebook.com/f.szch',
-			twitter: 'www.twitter.com/szcheck',
-			soundcloud: 'www.soundcloud.com/filipscekic'
-		},
-		bioOne: 'As one of the most unique talents to emerge out of Croatia’s recent electronic renaissance, SZCH finds himself exploring a space between classic house and gritty lo-fi. Along with being one third of the notorious “Low Income $quad”, the Zagreb native has released EPs on Always Human Tapes, LLL, Infinite Pleasure, and most recently, Departures.',
-		bioTwo: '',
-		agent: 'RYAN OTIS',
-		col: 1,
 		region: "GLOBAL"
 	},
    {
