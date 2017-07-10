@@ -334,6 +334,27 @@ export default [
 		col: 4,
 		region: "GLOBAL"
 	},
+     {
+		name: 'SZCH',
+		locale: '(HR)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+			"https://res.cloudinary.com/drh25z8fo/image/upload/v1492304250/SZCH_oobgla.png"
+		],
+		social: {
+			instagram: 'www.instagram.com/szcheck',
+			facebook: 'www.facebook.com/f.szch',
+			twitter: 'www.twitter.com/szcheck',
+			soundcloud: 'www.soundcloud.com/filipscekic'
+		},
+		bioOne: 'As one of the most unique talents to emerge out of Croatia’s recent electronic renaissance, SZCH finds himself exploring a space between classic house and gritty lo-fi. Along with being one third of the notorious “Low Income $quad”, the Zagreb native has released EPs on Always Human Tapes, LLL, Infinite Pleasure, and most recently, Departures.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 1,
+		region: "GLOBAL"
+	},
    {
 		name: 'X-Coast',
 		locale: '(US)',
@@ -352,7 +373,7 @@ export default [
 		bioOne: 'Serbian-born, Brookyln-based musician Bojan Cizmic is known for referencing multiple genres in his productions. His smash debut, named “Mango Bay” after the EP’s most successful single, plays with nostalgic sounds of 90’s rave culture and has garnered hundreds of thousands of views on Youtube. Cizmic’s productions, along with his ability to effortlessly drift through different genres and musical styles, have earned the artist a ravenous reputation on the internet and beyond.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 1,
+		col: 2,
 		region: "GLOBAL"
 	},
 ]
