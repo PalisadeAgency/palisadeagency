@@ -143,7 +143,7 @@ export default [
 		bioOne: 'Based in Cardiff, Wales, Harrison Webber is known and loved for tracks such as “Decompression” on Strcr Records, and It’s Foggy Outside, forthcoming on Artesian Sounds. Both songs illustrate Webber’s signature style of low, jabby bass hits, plush chords, and crisp hi-hats. 2017 is an especially exciting time for the young Welsh producer, as five EP’s are slated for release on some of the largest labels in the scene.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 4,
+		col: 3,
 		region: "GLOBAL"
 	},
    {
@@ -164,7 +164,7 @@ export default [
 		bioOne: 'Hailing from Bielefeld, Germany, Interstate is a fresh-faced DJ and producer making waves in the online dance community. His non-stop and blistering Soundcloud presence is backed up by his most popular work “Vanice Beach”, released on Waxtefacts 4-track compilation in 2016. As in “Vanice Beach”, Interstate’s productions typically feature playful 4/4 beats, faded vocal samples, and clubby synth pads.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 1,
+		col: 4,
 		region: "GLOBAL"
 	},
    {
@@ -185,7 +185,7 @@ export default [
 		bioOne: 'Jiovanni Nadel, who produces under the moniker J. Albert, hails from South Florida and is currently based out of Queens, New York. Along with Person of Interest, Nadel co-founded Exotic Dance records in 2015, which continues to put out fresh and exciting house cuts that have a ‘techno’ attitude. In addition to releasing on his own label, the artist has released work on Lovers Rock, Cult Trip, and Black Opal, with EP’s “Dance Slow”, and “EDR002” serving as stand-outs.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 1,
 		region: "North America"
 	},
    {
@@ -205,7 +205,7 @@ export default [
 		bioOne: 'Undoubtedly, Marcos Cabral is one of the most influential electronic producers to have lived in the current decade. His unforgiving yet systematically illuminating music has pushed the boundaries of the electronic spectrum time and time again.',
 		bioTwo: 'Cabral has graced the likes of L.I.E.S. (not once, not twice, but six (6) times), Crème Organisation, The Trilogy Tapes, and Mule Musiq amongst others.',
 		agent: 'RYAN OTIS',
-		col: 3,
+		col: 2,
 		region: "GLOBAL"
 	},
   {
@@ -226,7 +226,7 @@ export default [
 		bioOne: 'Based out of Brighton, UK, Pépe continues to impress with his unique and quick paced melodic productions. The Spaniard has seen his work featured on the likes of Sprung Records, In Records Paris, and most recently, Renascence. With more than 3 EPs slated for release in 2017, Pépe looks to further his foothold in the underground electronic scene.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 3,
 		region: "GLOBAL"
 	},
    {
@@ -247,7 +247,7 @@ export default [
 		bioOne: 'A true legend of the underground.',
 		bioTwo: 'POI has been featured on the likes of L.I.E.S, Royal Oak, Future Times, Erotic Dance Records, and Russian Torent Versions.',
 		agent: 'RYAN OTIS',
-		col: 3,
+		col: 4,
 		region: "GLOBAL"
 	},
    {
@@ -268,7 +268,7 @@ export default [
 		bioOne: 'Paris-based producer/DJ Raär is a master when it comes to creating stunning, hard-edged electronic music. Simply put, the Parisian comprises a standout within the contemporary raw techno/house scene. While riding the success off of his releases on Raw Culture, Dream Raw Recordings, and Who’s Susan, Raär’s recent smash hit “Sometimes I Hear Sirens” on House Plants Records is leaving fans and followers in deep anticipation of what is to come.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 4,
+		col: 1,
 		region: "GLOBAL"
 	},
    {
@@ -289,7 +289,7 @@ export default [
 		bioOne: 'A talented producer and artist with a sharp ear for a sample, William James Thurman lived in Montreal, Chicago, and Copenhagen before settling in Paris. His releases on Lobster Theremin, Closer, and Tasteful Nudes point at a keen sensibility for pairing ambient sounds with driving drums and thick bass-lines. Kicking off the year with the release of a celebrated EP entitled “Documented” on Mörk Records, Royer has those in-the-know hungry for more.',
 		bioTwo: '',
 		agent: 'Mat Constance',
-		col: 1,
+		col: 2,
 		region: "GLOBAL"
 	},
   {
@@ -310,7 +310,7 @@ export default [
 		bioOne: 'Shall not fade is a vinyl-only imprint based in Bristol, UK. Famed Australian DJ/Producer Mall Grab helmed the label’s first release in 2015. SNF now boasts 12 releases on its main imprint and 8 releases across its 3 sub-labels: Shall Not Fade White, Steel City Dance Disks, and Lost Palms. With Deejay Astral, Lake Haze, TRP, and LK on its roster amongst other notable producers, Shall Not Fade is deservedly renown within the underground house-music community.',
 		bioTwo: '',
 		agent: 'RYAN OTIS, MAT CONSTANCE',
-		col: 2,
+		col: 3,
 		region: "GLOBAL"
   },
    {
@@ -331,7 +331,7 @@ export default [
 		bioOne: "Despite his artist name and his trademark sound, Steve Murphy does not come from Chicago, but from Mira, a little town on the suburban area of Venice.",
 		bioTwo: 'Steve has been featured on lables such as: Rawax, Chiwax, Wilson, Lobster Theremin, Basement Floor, and Muscle.',
 		agent: 'Mat Constance',
-		col: 3,
+		col: 4,
 		region: "GLOBAL"
 	},
    {
@@ -352,7 +352,7 @@ export default [
 		bioOne: 'Serbian-born, Brookyln-based musician Bojan Cizmic is known for referencing multiple genres in his productions. His smash debut, named “Mango Bay” after the EP’s most successful single, plays with nostalgic sounds of 90’s rave culture and has garnered hundreds of thousands of views on Youtube. Cizmic’s productions, along with his ability to effortlessly drift through different genres and musical styles, have earned the artist a ravenous reputation on the internet and beyond.',
 		bioTwo: '',
 		agent: 'RYAN OTIS',
-		col: 2,
+		col: 1,
 		region: "GLOBAL"
 	},
 ]
