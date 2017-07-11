@@ -25,10 +25,24 @@ const Booker = (props) => {
 							</div>
 					</a>
 
-	
+					<a href="mailto:e@palisadeagency.com">
+						<div className="booker--name bebas-bold">
+							<div className="booker--large">
+								EMMANUEL COTE (CA)
+							</div>
+							<span className="booker--offering bebas-regular">
+								MEDIA MANAGER
+							</span>
+						</div>
+						<div className="booker--email bebas-regular">
+							E@PALISADEAGENCY.COM
+						</div>
+					</a>
 
 				</div>
+
 				<div className="vert-bar"></div>
+
 				<div className="bookers-right">
 					<a href="mailto:m@palisadeagency.com">
 						<div className="booker--name bebas-bold">
@@ -41,20 +55,6 @@ const Booker = (props) => {
 						</div>
 						<div className="booker--email bebas-regular">
 							M@PALISADEAGENCY.COM
-						</div>
-					</a>
-
-					<a href="mailto:e@palisadeagency.com">
-						<div className="booker--name bebas-bold">
-							<div className="booker--large">
-								EMMANUEL COTE (CA)
-							</div>
-							<span className="booker--offering bebas-regular">
-								MEDIA MANAGER
-							</span>
-						</div>
-						<div className="booker--email bebas-regular">
-							E@PALISADEAGENCY.COM
 						</div>
 					</a>
 				</div>
