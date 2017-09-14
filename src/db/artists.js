@@ -196,7 +196,7 @@ export default [
 		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
 		featured: false,
 		images: [
-	"http://res.cloudinary.com/drh25z8fo/image/upload/v1496373723/Person_of_Interest_2_nzuvr7.png"
+	"http://res.cloudinary.com/drh25z8fo/image/upload/v1505421451/Poi_Page_s4qysf.png"
 		],
 		social: {
 			instagram: 'https://www.instagram.com/angel.de.la.guardia.nyc/',
@@ -204,8 +204,8 @@ export default [
 			twitter: '',
 			soundcloud: 'www.soundcloud.com/personofinterest'
 		},
-		bioOne: 'A true legend of the underground.',
-		bioTwo: 'POI has been featured on the likes of L.I.E.S, Royal Oak, Future Times, Erotic Dance Records, and Russian Torent Versions.',
+		bioOne: 'Person of Interest, also know as Angel de la Guardia, is a house, techno and experimental electronic music producer based out of Queens, New York. He currently runs Exotic Dance Records with his roomate and life long friend J. Albert.',
+		bioTwo: 'POI’s music has been released on L.I.E.S., Russian Torrent Versions, Royal Oak, Exotic Dance Records, Future Times, and Unknown To The Unknown.',
 		agent: 'RYAN OTIS',
 		col: 2,
 		region: "GLOBAL"
