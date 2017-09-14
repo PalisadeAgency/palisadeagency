@@ -1,5 +1,26 @@
 export default [
   {
+		name: 'Ciel',
+		locale: '(CAN)',
+		offering: 'DJ',
+		description: 'Mixmag names "Fade Away" the 94th best track of 20016. -->',
+		featured: false,
+		images: [
+		"http://res.cloudinary.com/drh25z8fo/image/upload/v1505421451/Ciel_gg_uxmssy.png"
+		],
+		social: {
+			instagram: 'www.instagram.com/aerielist_/',
+			facebook: 'www.facebook.com/cl.lit/',
+			twitter: '',
+			soundcloud: 'www.soundcloud.com/cl_lit'
+		},
+		bioOne: 'Ciel, born Cindy Li, is a producer, DJ, promoter, and radio programmer based out of Toronto, Canada. She currently runs two of the country’s most forward thinking party series (It’s Not U It’s Me and Work in Progress) and hosts a female focused radio show (where she only plays music produced by females) on n10.as.',
+		bioTwo: '',
+		agent: 'RYAN OTIS',
+		col: 1,
+		region: "GLOBAL"
+	},
+  {
 		name: 'Deejay Astral',
 		locale: '(UK)',
 		offering: 'DJ',
