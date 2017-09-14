@@ -187,7 +187,7 @@ export default [
 		bioTwo: '',
 		agent: 'RYAN OTIS',
 		col: 4,
-		region: "Global"
+		region: "GLOBAL"
 	},
   {
 		name: 'Pépe',
