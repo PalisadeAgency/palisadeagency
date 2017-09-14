@@ -1,5 +1,6 @@
 export default
 [
+  'http://res.cloudinary.com/drh25z8fo/image/upload/v1505420525/Palisade_X-Coast_jaubms.png',
   'http://res.cloudinary.com/drh25z8fo/image/upload/v1500702086/J_Albert_utakrj.png',
   'http://res.cloudinary.com/drh25z8fo/image/upload/v1498769482/DJ_BORING_omwhfh.png',
   'http://res.cloudinary.com/drh25z8fo/image/upload/v1495684472/boring_asia_gtky0r.png',
